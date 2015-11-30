@@ -1,0 +1,958 @@
+﻿Family Reference Description Unit Price Delivery
+产品线 订货号 说明
+单价含税
+(RMB)
+物流中心
+存货类型
+LMC078 LMC078CECS20T 16 轴同步运动控制器本体 36,000 订购产品 IDSAF MK 德国
+M221 TM221C16R 一体型M221可编程逻辑控制器，16点IO，继电器输出 1,506 库存产品 IDSAF I8 台湾
+M221 TM221C16T 一体型M221可编程逻辑控制器，16点IO，源型输出 1,506 库存产品 IDSAF I8 台湾
+M221 TM221C24R 一体型M221可编程逻辑控制器，24点IO，继电器输出 2,152 库存产品 IDSAF I8 台湾
+M221 TM221C24T 一体型M221可编程逻辑控制器，24点IO，源型输出 2,152 库存产品 IDSAF I8 台湾
+M221 TM221C40R 一体型M221可编程逻辑控制器，40点IO，继电器输出 3,311 库存产品 IDSAF I8 台湾
+M221 TM221C40T 一体型M221可编程逻辑控制器，40点IO，源型输出 3,311 库存产品 IDSAF I8 台湾
+M221 TM221CE16R 一体型M221可编程逻辑控制器，集成1个以太网口，16点IO，继电器输出 2,980 订购产品 IDSAF I8 台湾
+M221 TM221CE16T 一体型M221可编程逻辑控制器，集成1个以太网口，16点IO，源型输出 2,980 订购产品 IDSAF I8 台湾
+M221 TM221CE24R 一体型M221可编程逻辑控制器，集成1个以太网口，24点IO，继电器输出 3,476 库存产品 IDSAF I8 台湾
+M221 TM221CE24T 一体型M221可编程逻辑控制器，集成1个以太网口，24点IO，源型输出 3,476 订购产品 IDSAF I8 台湾
+M221 TM221CE40R 一体型M221可编程逻辑控制器，集成1个以太网口，40点IO，继电器输出 4,304 库存产品 IDSAF I8 台湾
+M221 TM221CE40T 一体型M221可编程逻辑控制器，集成1个以太网口，40点IO，源型输出 4,304 订购产品 IDSAF I8 台湾
+M221 TM221M16R 书本型M221可编程逻辑控制器，16点IO，继电器输出 2,251 库存产品 IDSAF I8 台湾
+M221 TM221M16RG 书本型M221可编程逻辑控制器，16点IO，继电器输出，弹簧接线端子 2,483 订购产品 IDSAF I8 台湾
+M221 TM221M16T 书本型M221可编程逻辑控制器，16点IO，源型输出 2,251 库存产品 IDSAF I8 台湾
+M221 TM221M16TG 书本型M221可编程逻辑控制器，16点IO，源型输出，弹簧接线端子 2,483 订购产品 IDSAF I8 台湾
+M221 TM221M32TK 书本型M221可编程逻辑控制器，32点IO，源型输出 2,913 库存产品 IDSAF I8 台湾
+M221 TM221ME16R 书本型M221可编程逻辑控制器，集成1个以太网口，16点IO，继电器输出 3,576 库存产品 IDSAF I8 台湾
+M221 TM221ME16RG 书本型M221可编程逻辑控制器，集成1个以太网口，16点IO，继电器输出，弹簧接线端子 4,238 订购产品 IDSAF I8 台湾
+M221 TM221ME16T 书本型M221可编程逻辑控制器，集成1个以太网口，16点IO，源型输出 3,576 订购产品 IDSAF I8 台湾
+M221 TM221ME16TG 书本型M221可编程逻辑控制器，集成1个以太网口，16点IO，源型输出，弹簧接线端子 4,238 订购产品 IDSAF I8 台湾
+M221 TM221ME32TK 书本型M221可编程逻辑控制器，集成1个以太网口，32点IO，源型输出 4,801 订购产品 IDSAF I8 台湾
+M241 TM241CEC24R M241可编程逻辑控制器，集成1个以太网口和1个Canopen接口，24点IO，继电器输出 7,615 库存产品 IDSAF I9 印度尼西亚
+M241 TM241CEC24T M241可编程逻辑控制器，集成1个以太网口和1个Canopen接口，24点IO，源型输出 7,615 库存产品 IDSAF I9 印度尼西亚
+M241 TM241CEC24U M241可编程逻辑控制器，集成1个以太网口和1个Canopen接口，24点IO，漏型输出 7,615 订购产品 IDSAF I9 印度尼西亚
+M241 TM241CE40R M241可编程逻辑控制器，集成1个以太网口，40点IO，继电器输出 5,628 库存产品 IDSAF I9 印度尼西亚
+M241 TM241CE40T M241可编程逻辑控制器，集成1个以太网口，40点IO，源型输出 5,628 库存产品 IDSAF I9 印度尼西亚
+M241 TM241CE40U M241可编程逻辑控制器，集成1个以太网口，40点IO，漏型输出 5,628 库存产品 IDSAF I9 印度尼西亚
+M241 TM241C40R M241可编程逻辑控制器，40点IO，继电器输出 4,469 库存产品 IDSAF I9 印度尼西亚
+M241 TM241C40T M241可编程逻辑控制器，40点IO，源型输出 4,469 库存产品 IDSAF I9 印度尼西亚
+M241 TM241C40U M241可编程逻辑控制器，40点IO，漏型输出 4,469 订购产品 IDSAF I9 印度尼西亚
+MG MPG Original
+Country
+LECA 2015 价格本 生效日期：2015年03月28日，之前版本作废
+M241 TM241CE24R M241可编程逻辑控制器，集成1个以太网口，24点IO，继电器输出 4,966 库存产品 IDSAF I9 印度尼西亚
+M241 TM241CE24T M241可编程逻辑控制器，集成1个以太网口，24点IO，源型输出 4,966 库存产品 IDSAF I9 印度尼西亚
+M241 TM241CE24U M241可编程逻辑控制器，集成1个以太网口，24点IO，漏型输出 4,966 订购产品 IDSAF I9 印度尼西亚
+M241 TM241C24R M241可编程逻辑控制器，24点IO，继电器输出 3,807 库存产品 IDSAF I9 印度尼西亚
+M241 TM241C24T M241可编程逻辑控制器，24点IO，源型输出 3,807 库存产品 IDSAF I9 印度尼西亚
+M241 TM241C24U M241可编程逻辑控制器，24点IO，漏型输出 3,807 订购产品 IDSAF I9 印度尼西亚
+M251 TM251MESE M251可编程逻辑控制器，集成2个以太网口 8,608 订购产品 IDSAF I9 印度尼西亚
+M251 TM251MESC M251可编程逻辑控制器，集成1个以太网口和1个Canopen接口 7,284 库存产品 IDSAF I9 印度尼西亚
+TMC2 TMC2AI2 M221 模拟量扩展板，2路电流输入 927 库存产品 IDSAF I8 台湾
+TMC2 TMC2TI2 M221 温度采集扩展板 1,192 库存产品 IDSAF I8 台湾
+TMC2 TMC2AQ2V M221电压输出扩展板 993 库存产品 IDSAF I8 台湾
+TMC2 TMC2AQ2C M221电流输出扩展板 1,159 库存产品 IDSAF I8 台湾
+TMC2 TMC2SL1 M221串口扩展板 532 库存产品 IDSAF I8 台湾
+TMC2 TMC2HOIS01 M221 起重行业扩展板，1路模拟量输入 1,655 订购产品 IDSAF I8 台湾
+TMC2 TMC2PACK01 M221 包装行业扩展板，1路模拟量输入 1,655 订购产品 IDSAF I8 台湾
+TMC2 TMC2CONV01 M221 传送行业扩展板，1路串口 1,655 订购产品 IDSAF I8 台湾
+TMA-Acc TMAM2 M221 And TM3 安装套件 155 订购产品 IDSAF M8 台湾
+TMA-Acc TMACBL1 M221/241/251集成模拟量接口电缆 201 订购产品 IDSAF M8 台湾
+TMA-Acc TMAT2PSET M221/241/251 电源和RS485连接套件 270 订购产品 IDSAF M8 印度尼西亚
+TMA-Acc TMAT2CSET M221C IO连接套件 540 订购产品 IDSAF M8 印度尼西亚
+TMA-Acc TMAT2MSET M221M and TM3 - IO 连接套件 203 订购产品 IDSAF M8 印度尼西亚
+TMA-Acc TMAT2MSETG M221M and TM3 - IO 弹簧端子 连接套件 203 订购产品 IDSAF M8 印度尼西亚
+TMA-Acc TMAT4CSET M241 - IO 连接套件 940 订购产品 IDSAF M8 印度尼西亚
+TM3-Digital TM3DI8 TM3 数字量扩展模块，8路输入 653 库存产品 IDSAF M8 台湾
+TM3-Digital TM3DI8G TM3 数字量扩展模块，8路输入，弹簧接线端子 718 库存产品 IDSAF M8 台湾
+TM3-Digital TM3DI16 TM3 数字量扩展模块，16路输入 974 库存产品 IDSAF M8 台湾
+TM3-Digital TM3DI16G TM3 数字量扩展模块，16路输入，弹簧接线端子 1,071 订购产品 IDSAF M8 台湾
+TM3-Digital TM3DI16K TM3 数字量扩展模块，16路输入，HE10连接器 1,120 库存产品 IDSAF M8 台湾
+TM3-Digital TM3DI32K TM3 数字量扩展模块，32路输入,HE10 1,937 库存产品 IDSAF M8 台湾
+TM3-Digital TM3DQ8R TM3 数字量扩展模块，8路输出，继电器输出 782 库存产品 IDSAF M8 台湾
+TM3-Digital TM3DQ8RG TM3 数字量扩展模块，8路输出，继电器输出，弹簧接线端子 860 库存产品 IDSAF M8 台湾
+TM3-Digital TM3DQ16R TM3 数字量扩展模块，16路输出，继电器输出 1,103 库存产品 IDSAF M8 台湾
+TM3-Digital TM3DQ16RG TM3 数字量扩展模块，16路输出，继电器输出，弹簧接线端子 1,213 库存产品 IDSAF M8 台湾
+TM3-Digital TM3DQ8T TM3 数字量扩展模块，8路输出，源型输出 782 库存产品 IDSAF M8 台湾
+TM3-Digital TM3DQ8TG TM3 数字量扩展模块，8路输出，源型输出，弹簧接线端子 860 库存产品 IDSAF M8 台湾
+TM3-Digital TM3DQ16T TM3 数字量扩展模块，16路输出，源型输出 1,103 库存产品 IDSAF M8 台湾
+TM3-Digital TM3DQ16TG TM3 数字量扩展模块，16路输出，源型输出，弹簧接线端子 1,213 库存产品 IDSAF M8 台湾
+TM3-Digital TM3DQ16TK TM3 数字量扩展模块，16路输出，源型输出，HE10连接器 1,268 库存产品 IDSAF M8 台湾
+TM3-Digital TM3DQ32TK TM3 数字量扩展模块，32路源型输出,HE10 2,172 库存产品 IDSAF M8 台湾
+TM3-Digital TM3DM8R TM3 数字量扩展模块，4路输入，4路继电器输出 842 库存产品 IDSAF M8 台湾
+TM3-Digital TM3DM8RG TM3数字量扩展模块，4路输入，4路继电器输出，弹簧接线端子 926 库存产品 IDSAF M8 台湾
+TM3-Digital TM3DM24R TM3 数字量扩展模块，16路输入，8路继电器输出 2,247 库存产品 IDSAF M8 台湾
+TM3-Digital TM3DM24RG TM3数字量扩展模块，16路输入，8路继电器输出，弹簧接线端子 2,471 库存产品 IDSAF M8 台湾
+TM3-Digital TM3DQ8U TM3 数字量扩展模块，8路输出，漏型输出 782 订购产品 IDSAF M8 台湾
+TM3-Digital TM3DQ8UG TM3 数字量扩展模块，8路输出，漏型输出，弹簧接线端子 860 订购产品 IDSAF M8 台湾
+TM3-Digital TM3DQ16U TM3 数字量扩展模块，16路输出，漏型输出 1,103 库存产品 IDSAF M8 台湾
+TM3-Digital TM3DQ16UG TM3 数字量扩展模块，16路输出，漏型输出，弹簧接线端子 1,213 库存产品 IDSAF M8 台湾
+TM3-Digital TM3DQ16UK TM3 数字量扩展模块，16路输出，漏型输出，HE10连接器 1,268 库存产品 IDSAF M8 台湾
+TM3-Digital TM3DQ32UK TM3 数字量扩展模块，32路输出，漏型输出，HE10连接器 2,172 订购产品 IDSAF M8 台湾
+TM3-Digital TM3DI8A TM3 数字量扩展模块，8路120VAC输入 1,129 订购产品 IDSAF M8 台湾
+TM3-Analog TM3AI2H TM3 模拟量扩展模块，2路输入，16bit 1,511 库存产品 IDSAF M8 台湾
+TM3-Analog TM3AI2HG TM3 模拟量扩展模块，2路输入，16bit，弹簧接线端子 1,655 订购产品 IDSAF M8 台湾
+TM3-Analog TM3AI4 TM3 模拟量扩展模块，4路输入，12bit 2,005 库存产品 IDSAF M8 台湾
+TM3-Analog TM3AI4G TM3 模拟量扩展模块，4路输入，12bit，弹簧接线端子 2,206 订购产品 IDSAF M8 台湾
+TM3-Analog TM3AI8 TM3 模拟量扩展模块，8路输入，12bit 2,980 库存产品 IDSAF M8 台湾
+TM3-Analog TM3AI8G TM3 模拟量扩展模块，8路输入，12bit，弹簧接线端子 3,278 订购产品 IDSAF M8 台湾
+TM3-Analog TM3AQ2 TM3 模拟量扩展模块，2路输出，12bit 1,854 库存产品 IDSAF M8 台湾
+TM3-Analog TM3AQ2G TM3 模拟量扩展模块，2路输出，12bit，弹簧接线端子 1,986 订购产品 IDSAF M8 台湾
+TM3-Analog TM3AQ4 TM3 模拟量扩展模块，4路输出，12bit 2,053 库存产品 IDSAF M8 台湾
+TM3-Analog TM3AQ4G TM3 模拟量扩展模块，4路输出，12bit，弹簧接线端子 2,251 订购产品 IDSAF M8 台湾
+TM3-Analog TM3AM6 TM3 模拟量扩展模块，4路输入，2路输出，12bit 2,317 库存产品 IDSAF M8 台湾
+TM3-Analog TM3AM6G TM3 模拟量扩展模块，4路输入，2路输出，12bit，弹簧接线端子 2,516 订购产品 IDSAF M8 台湾
+TM3-Analog TM3TM3 TM3 模拟量扩展模块，2路输入，1路输出，16bit 2,152 库存产品 IDSAF M8 台湾
+TM3-Analog TM3TM3G TM3 模拟量扩展模块，2路输入，1路输出，16bit，弹簧接线端子 2,317 订购产品 IDSAF M8 台湾
+TM3-Analog TM3TI4 TM3温度采集模块，4路输入，16bit 1,942 库存产品 IDSAF M8 台湾
+TM3-Analog TM3TI4G TM3温度采集模块，4路输入，16bit，弹簧接线端子 2,136 订购产品 IDSAF M8 台湾
+TM3-Analog TM3TI8T TM3温度采集模块，8路输入，16bit 3,145 订购产品 IDSAF M8 台湾
+TM3-Analog TM3TI8TG TM3温度采集模块，8路输入，16bit，弹簧接线端子 3,460 订购产品 IDSAF M8 台湾
+TM3-Expert TM3XTRA1 TM3发送模块 2,294 订购产品 IDSAF M8 印度尼西亚
+TM3-Expert TM3XREC1 TM3接收模块 2,914 订购产品 IDSAF M8 印度尼西亚
+TM3-Expert TM3XTYS4 TM3 TeSys控制模块，4个RJ45接口 2,515 订购产品 IDSAF M8 台湾
+TM4 TM4ES4 TM4 以太网扩展模块 3,642 订购产品 IDSAF M8 印度尼西亚
+TM4 TM4PDPS1 TM4 Profibus DP从站扩展模块 7,284 订购产品 IDSAF M8 印度尼西亚
+TM3-Expert VDIP184546005可编程控制器M221/241/251用TM3扩展总线电缆，每端配有一个RJ45插头，0.5米 234 中央库存 IDSAF M8 印度尼西亚
+TM3-Expert VDIP184546010 可编程控制器M221/241/251用TM3扩展总线电缆，每端配有一个RJ45插头，1米 293 中央库存 IDSAF M8 印度尼西亚
+TM3-Expert VDIP184546020 可编程控制器M221/241/251用TM3扩展总线电缆，每端配有一个RJ45插头，2米 351 中央库存 IDSAF M8 印度尼西亚
+TM3-Expert VDIP184546030 可编程控制器M221/241/251用TM3扩展总线电缆，每端配有一个RJ45插头，3米 410 中央库存 IDSAF M8 印度尼西亚
+TM3-Expert VDIP184546050 可编程控制器M221/241/251用TM3扩展总线电缆，每端配有一个RJ45插头，5米 585 中央库存 IDSAF M8 印度尼西亚
+TMC4 TMC4AI2 M241 模拟量输入扩展板 1,986 库存产品 IDSAF I9 印度尼西亚
+TMC4 TMC4TI2 M241 温度输入扩展板 2,980 库存产品 IDSAF I9 印度尼西亚
+TMC4 TMC4AQ2 M241 模拟量输出扩展板 2,649 库存产品 IDSAF I9 印度尼西亚
+TMC4 TMC4HOIS01 M241 起重行业扩展板，1路模拟量输入 3,973 订购产品 IDSAF I9 印度尼西亚
+TMC4 TMC4PACK01 M241 包装行业扩展板，1路模拟量输入 3,973 订购产品 IDSAF I9 印度尼西亚
+M171 TM171OB22R M171 优化型本体，导轨安装式，不带屏型号，内置22点IO 997 库存产品 IDSAF Q0 意大利
+M171 TM171OBM14R M171 优化型本体，导轨安装式，不带屏型号，内置14点IO，内置一路Modbus 1,390 库存产品 IDSAF Q0 意大利
+M171 TM171OBM22R M171 优化型本体，导轨安装式，不带屏型号，内置22点IO 1,523 库存产品 IDSAF Q0 意大利
+M171 TM171OD14R M171 优化型本体，导轨安装式，带屏型号，内置14点IO 1,324 库存产品 IDSAF Q0 意大利
+M171 TM171OD22R M171 优化型本体，导轨安装式，带屏型号，内置22点IO 1,424 库存产品 IDSAF Q0 意大利
+M171 TM171ODM14R M171 优化型本体，导轨安装式，带屏型号，内置14点IO，内置一路Modbus 1,556 库存产品 IDSAF Q0 意大利
+M171 TM171ODM22R M171 优化型本体，导轨安装式，带屏型号，内置22点IO，内置一路Modbus 1,854 库存产品 IDSAF Q0 意大利
+M171 TM171ODM22S M171 优化型本体，导轨安装式，带屏型号，内置22点IO，内置一路Modbus和2路SSR 1,821 订购产品 IDSAF Q0 意大利
+M171 TM171OF22R M171 优化型本体，墙体嵌入式，内置22点IO 1,225 订购产品 IDSAF Q0 意大利
+M171 TM171OFM22R M171 优化型本体，墙体嵌入式，内置22点IO，内置一路串口 1,688 库存产品 IDSAF Q0 意大利
+M171 TM171EO14R M171 优化型扩展模块，14点IO，100-240V供电 1,170 订购产品 IDSAF Q0 意大利
+M171 TM171EO15R M171 优化型扩展模块，15点IO 828 库存产品 IDSAF Q0 意大利
+M171 TM171EO22R M171 优化型扩展模块，22点IO 960 库存产品 IDSAF Q0 意大利
+M171 TM171PBM27R M171 高性能型本体，不带屏的型号，27点IO，一路Modbus 请询问市场部 库存产品 IDSAF Q0 意大利
+M171 TM171PDM27R M171 高性能型本体，带屏的型号，27点IO，一路Modbus 请询问市场部 库存产品 IDSAF Q0 意大利
+M171 TM171PDM27S M171 高性能型本体，带屏的型号，27点IO，一路Modbus，2SSR 请询问市场部 订购产品 IDSAF Q0 意大利
+M171 TM171PFE03 M171 高性能型本体，墙体嵌入式，内置22点IO 请询问市场部 库存产品 IDSAF Q0 意大利
+M171 TM171PFE03HR M171 高性能型本体，墙体嵌入式，内置22点IO 请询问市场部 订购产品 IDSAF Q0 意大利
+M171 TM171EP14R M171 高性能型扩展模块，14点IO 请询问市场部 库存产品 IDSAF Q0 意大利
+M171 TM171DGRP M171 高性能型，图形终端 请询问市场部 库存产品 IDSAF Q0 意大利
+M171 TM171EP27R M171 高性能型扩展模块，27点IO 请询问市场部 库存产品 IDSAF Q0 意大利
+M171 TM171DLED M171 优化型，人机界面，LED 828 库存产品 IDSAF Q0 意大利
+M171 TM171DLCD2U M171 优化型，人机界面，LCD 1,159 订购产品 IDSAF Q0 意大利
+M171 TM171DWAL2U M171 优化型，人机界面，内置墙体温控器，不带背景板 828 订购产品 IDSAF Q0 意大利
+M171 TM171DWAL2L M171 优化型，人机界面，内置墙体温控器，带背景板 993 订购产品 IDSAF Q0 意大利
+M171 TM171ACAN M171 高性能型通讯扩展卡，CAN通讯 请询问市场部 订购产品 IDSAF Q0 意大利
+M171 TM171AETH M171 高性能型通讯扩展卡，Ethernet通讯 请询问市场部 库存产品 IDSAF Q0 意大利
+M171 TM171APBUS M171 高性能型通讯扩展卡，DP通讯 请询问市场部 订购产品 IDSAF Q0 意大利
+M171 TM171AMB M171 高性能型通讯扩展卡，Modbus通讯 请询问市场部 库存产品 IDSAF Q0 意大利
+M171 TM171ARS485 M171 高性能型通讯扩展卡，BACnet MSTP 或 Modbus 通讯 请询问市场部 订购产品 IDSAF Q0 意大利
+M171 TM171ARS232 M171 高性能型通讯扩展卡，RS232通讯 请询问市场部 订购产品 IDSAF Q0 意大利
+M171 TM171AETHRS485 M171 高性能型通讯扩展卡，一路BACnet MSTP 或 Modbus 通讯 和 一路 Ethernet 请询问市场部 库存产品 IDSAF Q0 意大利
+M171 TM171ACB4OLAN M171 优化型扩展总线连接器，2m 106 库存产品 IDSAF Q0 意大利
+M171 TM171ACB4ORS485 M171 优化型modbus连接器，1m 83 库存产品 IDSAF Q0 意大利
+M171 TM171ACB4OAO1M M171 优化型AO连接电缆，1m 56 库存产品 IDSAF Q0 意大利
+M171 TM171ACB4OAO2M M171 优化型AO连接电缆，2m 66 库存产品 IDSAF Q0 意大利
+M171 TM171ACB4OI1M M171 优化型LV连接电缆，1m 182 库存产品 IDSAF Q0 意大利
+M171 TM171ACB4OI2M M171 优化型LV连接电缆，2m 232 库存产品 IDSAF Q0 意大利
+M171 TM171ADMI M171 优化型编程电缆 1,059 库存产品 IDSAF Q0 意大利
+M171 TM171AUSB2CAN M171 高性能型编程电缆，通过CAN 请询问市场部 订购产品 IDSAF Q0 意大利
+M171 TM171ABKPB M171 高性能型墙体显示器，白色 请询问市场部 订购产品 IDSAF Q0 意大利
+M171 TM171ABKPG M171 高性能型墙体显示器，灰色 请询问市场部 订购产品 IDSAF Q0 意大利
+M171 TM171AMFK M171 编程卡 331 订购产品 IDSAF Q0 意大利
+M171 TM171AUSB2RS485 M171 编程电缆，通过RS485 请询问市场部 订购产品 IDSAF Q0 意大利
+M171 TM171ASCTB27 M171 高性能型，27IO螺钉端子 请询问市场部 库存产品 IDSAF Q0 意大利
+M171 TM171ASCTBVEV M171 电子膨胀阀螺钉端子 请询问市场部 订购产品 IDSAF Q0 意大利
+M171 TM171ASCTB14 M171 高性能型，14IO螺钉端子 请询问市场部 库存产品 IDSAF Q0 意大利
+M171 TM1SH314 温度、湿度传感器，墙体安装式 3,973 订购产品 IDSAF Q0 意大利
+M171 TM1SH304 湿度传感器，墙体安装式 2,582 订购产品 IDSAF Q0 意大利
+M171 TM1SH284 湿度传感器 1,490 订购产品 IDSAF Q0 意大利
+M171 TM1STNTCRN61515 NTC 温度传感器，1.5m，IP67 6*15 71 订购产品 IDSAF Q0 意大利
+M171 TM1STNTCRN61530 NTC 温度传感器，3m，IP67 6*15 113 订购产品 IDSAF Q0 意大利
+M171 TM1STNTCRN61550 NTC 温度传感器，5m，IP67 6*15 190 订购产品 IDSAF Q0 意大利
+M171 TM1STNTCSF44015 NTC 温度传感器，快速，1.5m，IP67，-50+110°C 168 订购产品 IDSAF Q0 意大利
+M171 TM1STNTCSF44030 NTC 温度传感器，快速，3m，IP67，-50+110°C 224 订购产品 IDSAF Q0 意大利
+M171 TM1STNTCSN62015 NTC 温度传感器，1.5m，IP68，-50+110°C，灰色，6x20 110 订购产品 IDSAF Q0 意大利
+M171 TM1STNTCSN62030 NTC 温度传感器，3m，IP68，-50+110°C，灰色，6x20 164 订购产品 IDSAF Q0 意大利
+M171 TM1STNTCSN62050 NTC 温度传感器，5m，IP68，-50+110°C，灰色，6x20 259 订购产品 IDSAF Q0 意大利
+M171 TM1STNTCTN62015 NTC 温度传感器，1.5m，IP68，TPE w/ strap Grey，6x20 160 订购产品 IDSAF Q0 意大利
+M171 TM1STNTCTN62030 NTC 温度传感器，3m，IP68，TPE w/ strap Grey，6x20 218 订购产品 IDSAF Q0 意大利
+M171 TM1STNTCRN52015 NTC 温度传感器，1.5m，IP68，-50+110°C，灰色，5x20 96 订购产品 IDSAF Q0 意大利
+M171 TM1STNTCRN52030 NTC 温度传感器，3m，IP68，-50+110°C，灰色，5x20 148 订购产品 IDSAF Q0 意大利
+M171 TM1STNTCRN52050 NTC 温度传感器，5m，IP68，-50+110°C，灰色，5x20 243 订购产品 IDSAF Q0 意大利
+M171 TM1STNTCWN75750 NTC 墙体安装式 373 订购产品 IDSAF Q0 意大利
+M171 TM1STPTTSN62015 PT1000 1,5m IP68 6x20 -50+110°C 绿色 222 订购产品 IDSAF Q0 意大利
+M171 TM1STPTTSN62030 PT1000 3m IP68 6x20 -50+110°C 绿色 290 订购产品 IDSAF Q0 意大利
+M171 TM1STPTTSN52015 PT1000 1,5m IP68 5x20 -50+110°C 绿色 208 订购产品 IDSAF Q0 意大利
+M171 TM1STPTTSN52030 PT1000 3m IP68 5x20 -50+110°C 绿色 274 订购产品 IDSAF Q0 意大利
+M171 TM1STPTTSN52050 PT1000 5m IP68 5x20 -50+110°C 绿色 386 订购产品 IDSAF Q0 意大利
+M171 TM1STNTCWN65605 NTC 墙体安装式 508 订购产品 IDSAF Q0 意大利
+M171 TM171SW SoMachine HVAC 软件 331 订购产品 IDSAF Q0 意大利
+M171 TM171VEVA2 电子膨胀阀模块 请询问市场部 订购产品 IDSAF Q0 意大利
+M171 TM171VEVD4 电子膨胀阀模块 请询问市场部 订购产品 IDSAF Q0 意大利
+M171 TM171VEVM4 电子膨胀阀模块 请询问市场部 订购产品 IDSAF Q0 意大利
+M238 TCSXCNAMUM3P USB编程电缆, 3 M 1,168 订购产品 IDSAF WR 法国
+M238 TM200RSRCEMC EMC屏蔽层连接器 408 订购产品 IDSAF WR 法国
+M238 TM238CNTLSCT CANopen线缆适配器 416 订购产品 IDSAF WR 印度尼西亚
+M238 TM238LDA24DR 交流220V,14点输入（8路高速计数），4点晶体管输出（不可配置为脉冲输出），6点继电器输出，M238本体 3,762 订购产品 IDSAF WR 印度尼西亚
+M238 TM238LDD24DT 直流24V,14点输入(8路高速计数),10点晶体管输出(2路脉冲输出),M238本体 3,725 中央库存 IDSAF WR 印度尼西亚
+M238 TM238LFAC24DR 交流220V,14点输入(8路高速计数),4点晶体管输出,6点继电器输出,内置CANopen主站,M238本体 5,610 中央库存 IDSAF WR 印度尼西亚
+M238 TM238LFDC24DT 直流24V,14点输入(8路高速计数),10点晶体管输出(2路脉冲输出),内置CANopen主站,M238本体 5,554 中央库存 IDSAF WR 印度尼西亚
+M238 TM238RSSCT 可插拔螺钉端子(5个一组) 364 订购产品 IDSAF WR 印度尼西亚
+M238 TM238RSSPT 可插拔卡簧端子(5个一组) 231 订购产品 IDSAF WR 法国
+M238 TM2ALM3LT 2路输入，热电偶/PT100， 12位精度； 1路输出， 0~10V或4~20mA， 12位精度 1,894 库存产品 IDSAF WR 日本
+M238 TM2AMI2HT 2路输入， 0~10V或4~20mA， 12位精度 1,009 库存产品 IDSAF WR 日本
+M238 TM2AMI2LT 2路热电偶输入(J,K,T),12位，螺丝端子接口 1,662 订购产品 IDSAF WR 法国
+M238 TM2AMI4LT 4路输入，PT100或NI100/1000电阻，0~10V或4~20mA，12位精度 2,693 中央库存 IDSAF WR 法国
+M238 TM2AMI8HT 8路输入，0~10V或0~20mA，10位精度 2,542 中央库存 IDSAF WR 法国
+M238 TM2AMM3HT 2路输入， 0~10V或4~20mA， 12位精度； 1路输出， 0~10V或4~20mA， 12位精度 1,681 库存产品 IDSAF WR 日本
+M238 TM2AMM6HT 4路输入，0~10V或0~20mA，12位精度；2路输出，0~10V或4~20mA，12位精度 2,146 中央库存 IDSAF WR 法国
+M238 TM2AMO1HT 1路输出， 0~10V或4~20mA， 12位精度 953 库存产品 IDSAF WR 日本
+M238 TM2ARI8HT 8路输入， PTC/NTC， 10位精度 2,619 订购产品 IDSAF WR 法国
+M238 TM2ARI8LRJ 8路输入(PT100,PT1000),12位， RJ11接口 4,378 订购产品 IDSAF WR 法国
+M238 TM2ARI8LT 8路输入(PT100,PT1000),12位，螺丝端子接口 4,054 库存产品 IDSAF WR 法国
+M238 TM2AVO2HT 2路输出，-10~10V，11位＋1符号位 1,541 中央库存 IDSAF WR 法国
+M238 TM2DAI8DT 交流120V， 8点输入，可插拔螺钉端子 2,076 订购产品 IDSAF WR 法国
+M238 TM2DDI16DK 16点输入， HE10连接器 941 库存产品 IDSAF WR 日本
+M238 TM2DDI16DT 16点输入，可插拔螺钉端子 1,092 库存产品 IDSAF WR 日本
+M238 TM2DDI32DK 32点输入， HE10连接器 1,486 库存产品 IDSAF WR 日本
+M238 TM2DDI8DT 8点输入，可插拔螺钉端子 683 库存产品 IDSAF WR 日本
+M238 TM2DDO16TK 16点晶体管（正逻辑）输出，HE10连接器 1,380 中央库存 IDSAF WR 日本
+M238 TM2DDO16UK 16点晶体管（负逻辑）输出，HE10连接器 1,506 中央库存 IDSAF WR 日本
+M238 TM2DDO32TK 32点晶体管（正逻辑）输出， HE10连接器 2,145 库存产品 IDSAF WR 日本
+M238 TM2DDO32UK 32点晶体管（负逻辑）输出， HE10连接器 2,391 订购产品 IDSAF WR 日本
+M238 TM2DDO8TT 8点晶体管（正逻辑）输出， 可插拔螺钉端子 943 库存产品 IDSAF WR 日本
+M238 TM2DDO8UT 8点晶体管（负逻辑）输出， 可插拔螺钉端子 1,020 订购产品 IDSAF WR 日本
+M238 TM2DMM24DRF 16点输入， 8点继电器输出，卡簧端子 1,628 库存产品 IDSAF WR 日本
+M238 TM2DMM8DRT 4点输入， 4点继电器输出，可插拔螺钉端子 713 库存产品 IDSAF WR 日本
+M238 TM2DRA16RT 16点继电器输出，可插拔螺钉端子 1,570 库存产品 IDSAF WR 日本
+M238 TM2DRA8RT 8点继电器输出，可插拔螺钉端子 840 库存产品 IDSAF WR 日本
+M238 TM2USBABDEV1 应用上下载器 2,450 订购产品 IDSAF WR 德国
+M258 TCSXCNNXNX100 TM5扩展总线电缆， 100米，每端各1条飞线 4,120 订购产品 IDSAF BN 德国
+M258 TM258LD42DT 42点本体，内置一个以太网口，一个串口 6,606 中央库存 IDSAF BN 奥地利
+M258 TM258LD42DT4L 42点本体，内置4路模拟量输入，一个以太网口，一个串口和两个PCI插槽（用于通讯扩展） 10,214 订购产品 IDSAF BN 奥地利
+M258 TM258LF42DR 42点继电器输出本体，内置一个以太网口，一个串口和两个PCI插槽（用于通讯扩展） 9,430 中央库存 IDSAF BN 奥地利
+M258 TM258LF42DT 42点本体，内置一个以太网口，一个CANopen主站，一个串口 9,430 中央库存 IDSAF BN 奥地利
+M258 TM258LF42DT4L 42点本体，内置4路模拟量输入，一个以太网口，一个CANopen主站，一个串口和两个PCI插槽（用于通讯扩展） 12,150 中央库存 IDSAF BN 奥地利
+M258 TM258LF66DT4L 66点本体，内置4路模拟量输入，一个以太网口，一个CANopen主站，一个串口和两个PCI插槽（用于通讯扩展） 13,240 中央库存 IDSAF BN 奥地利
+M258 TM258LF42DTS0 42点晶体管输出本体，内置一个以太网口，一个串口和两个PCI插槽（用于通讯扩展）,支持TVDA行业附加库 11,200 订购产品 IDSAF BN 奥地利
+M258 TM258LF42DRS0 42点继电器输出本体，内置一个以太网口，一个串口和两个PCI插槽（用于通讯扩展）,支持TVDA行业附加库 13,104 订购产品 IDSAF BN 奥地利
+M258 TM5ACADL100 锁扣包，用于切片式模块，黑色，每包100个 800 订购产品 IDSAF BN 奥地利
+M258 TM5ACBM01R 直流24V总线基座，用于TM5SBET2扩展模块，灰色 178 中央库存 IDSAF BN 奥地利
+M258 TM5ACBM01R10 直流24V总线基座包，用于TM5SBET2扩展模块，灰色， 10个1包 1,699 订购产品 IDSAF BN 奥地利
+M258 TM5ACBM05R 直流24V地址设定总线基座，用于TM5SBET2扩展模块，灰色 464 订购产品 IDSAF BN 奥地利
+M258 TM5ACBM05R10 直流24V地址设定总线基座包，用于TM5SBET2扩展模块，灰色，每包10个 4,525 订购产品 IDSAF BN 奥地利
+M258 TM5ACBM11 直流24V总线基座，用于TM5SBET1扩展模块，白色 149 中央库存 IDSAF BN 奥地利
+M258 TM5ACBM1110 直流24V总线基座包，用于TM5SBET1扩展模块，白色，每包10个 1,403 订购产品 IDSAF BN 奥地利
+M258 TM5ACBM12 交流240V总线基座，黑色 413 中央库存 IDSAF BN 奥地利
+M258 TM5ACBM1210 交流240V总线基座包，黑色，每包10个 4,595 订购产品 IDSAF BN 奥地利
+M258 TM5ACBM15 直流24V地址设定总线基座，用于TM5SBET1扩展模块，白色 464 订购产品 IDSAF BN 奥地利
+M258 TM5ACBM1510 直流24V地址设定总线基座包，用于TM5SBET1扩展模块，白色，每包10个 4,525 订购产品 IDSAF BN 奥地利
+M258 TM5ACBN1 CANopen通信模块总线基座 298 订购产品 IDSAF BN 奥地利
+M258 TM5ACLITB1 带有颜色的塑料标识，用于标记16个通道连接端子，黑色 173 订购产品 IDSAF BN 奥地利
+M258 TM5ACLITR1 带有颜色的塑料标识，用于标记16个通道连接端子，红色 173 订购产品 IDSAF BN 奥地利
+M258 TM5ACLITW1 带有颜色的塑料标识，用于标记16个通道连接端子，白色 173 订购产品 IDSAF BN 奥地利
+M258 TM5ACLPL10 总线基座挡板包，固定在总线左侧，每包10个 149 订购产品 IDSAF BN 奥地利
+M258 TM5ACLPR10 总线基座挡板包，固定在总线右侧，每包10个 145 订购产品 IDSAF BN 奥地利
+M258 TM5ACLT1 标签安装工具 321 订购产品 IDSAF BN 奥地利
+M258 TM5ACTB06 6触点，直流24V电源模块接线端子 68 订购产品 IDSAF BN 奥地利
+M258 TM5ACTB0610 6触点，直流24V电源模块接线端子包， 10个1包 629 订购产品 IDSAF BN 奥地利
+M258 TM5ACTB12 12触点，直流24V电源模块接线端子，白色 88 中央库存 IDSAF BN 奥地利
+M258 TM5ACTB1210 12触点，直流24V电源模块接线端子包，白色， 10个1包 840 订购产品 IDSAF BN 奥地利
+M258 TM5ACTB12PS 12触点，直流24V电源模块接线端子，灰色 134 中央库存 IDSAF BN 奥地利
+M258 TM5ACTB32 交流240V，离散量I/O接线端子， 12触点，黑色 115 库存产品 IDSAF BN 奥地利
+M258 TM5ACTB3210 交流240V，离散量I/O接线端子包， 12触点，黑色， 10个1包 1,285 订购产品 IDSAF BN 奥地利
+M258 TM5ACTCH100 接线端子护板锁扣包，每包100个 800 订购产品 IDSAF BN 奥地利
+M258 TM5ACTLC100 接线端子夹持器包，每包100个 800 订购产品 IDSAF BN 奥地利
+M258 TM5ACTLS100 标签包，每包100个 504 订购产品 IDSAF BN 奥地利
+M258 TM5C12D6T6L 紧凑式I/O扩展模块， 12点24VDC离散量漏型输入， 6点晶体管源型输出， 4路模拟量输入， 2路模拟量输出 6,459 订购产品 IDSAF BN 奥地利
+M258 TM5C12D8T 紧凑式I/O扩展模块， 12点24VDC离散量漏型输入， 8点晶体管源型输出 2,087 订购产品 IDSAF BN 奥地利
+M258 TM5C24D12R 紧凑式I/O扩展模块， 24点24VDC离散量漏型输入， 12点继电器输出 3,512 中央库存 IDSAF BN 奥地利
+M258 TM5C24D18T 紧凑式I/O扩展模块， 24点24VDC离散量漏型输入， 18点晶体管源型输出 3,660 中央库存 IDSAF BN 奥地利
+M258 TM5CAI8O8CL 紧凑式I/O扩展模块， 8点0-20mA模拟量输入， 8点0-20mA模拟量输出， 12位 13,460 订购产品 IDSAF BN 奥地利
+M258 TM5CAI8O8CVL 紧凑式I/O扩展模块， 4点-10V~10V和4点0-20mA模拟量输入， 4点-10V~10V和4点0-20mA模拟量输出， 12位 13,460 订购产品 IDSAF BN 奥地利
+M258 TM5CAI8O8VL 紧凑式I/O扩展模块， 8点-10V~10V模拟量输入， 8点-10V~10V模拟量输出， 12位 13,460 订购产品 IDSAF BN 奥地利
+M258 TM5NCO1 CANopen通信模块 1,930 订购产品 IDSAF BN 奥地利
+M258 TM5NS31 SERCOS III通信模块 4,500 订购产品 IDSAF BN 奥地利
+M258 TM5PCDPS Profibus DP从站通讯模块， PCI卡接口 5,633 订购产品 IDSAF BN 奥地利
+M258 TM5PCRS2 RS232串口通讯模块， PCI卡接口 3,217 订购产品 IDSAF BN 奥地利
+M258 TM5PCRS4 RS485串口通讯模块， PCI卡接口 4,268 中央库存 IDSAF BN 奥地利
+M258 TM5SAI2H 2通道， -10V~10V/0-20mA模拟量输入， 16位精度 3,396 订购产品 IDSAF BN 奥地利
+M258 TM5SAI2L 2通道， -10V~10V/0-20mA/4-20mA模拟量输入，12位精度 2,536 中央库存 IDSAF BN 奥地利
+M258 TM5SAI2PH 2通道， PT100/1000 热电阻温度输入， 16位精度 3,859 订购产品 IDSAF BN 奥地利
+M258 TM5SAI2TH 2通道， J/K/S/N热电耦输入， 16位精度 3,859 订购产品 IDSAF BN 奥地利
+M258 TM5SAI4H 4通道， -10V~10V/0-20mA模拟量输入， 16位精度 4,630 中央库存 IDSAF BN 奥地利
+M258 TM5SAI4L 4通道， -10V~10V/0-20mA/4-20mA模拟量输入，12位精度 3,748 中央库存 IDSAF BN 奥地利
+M258 TM5SAI4PH 4通道， PT100/1000 热电阻温度输入， 16位精度 5,381 中央库存 IDSAF BN 奥地利
+M258 TM5SAI6TH 6通道， J/K/S/N热电耦输入， 16位精度 7,254 中央库存 IDSAF BN 奥地利
+M258 TM5SAO2H 2通道， -10V~10V/0-20mA模拟量输出， 16位精度 3,484 订购产品 IDSAF BN 奥地利
+M258 TM5SAO2L 2通道， -10V~10V/0-20mA模拟量输出， 12位精度 2,624 中央库存 IDSAF BN 奥地利
+M258 TM5SAO4H 4通道， -10V~10V/0-20mA模拟量输出， 16位精度 5,071 订购产品 IDSAF BN 奥地利
+M258 TM5SAO4L 4通道， -10V~10V/0-20mA模拟量输出， 12位精度 4,189 中央库存 IDSAF BN 奥地利
+M258 TM5SBER2 TM5扩展总线接收模块 1,697 中央库存 IDSAF BN 奥地利
+M258 TM5SBET1 TM5扩展总线发送模块 1,435 中央库存 IDSAF BN 奥地利
+M258 TM5SBET7 TM5扩展总线发送模块，用于IP20 I/O站与IP67 I/O站之间 2,280 订购产品 IDSAF BN 奥地利
+M258 TM5SD000 空槽模块，保留插槽和逻辑地址 163 订购产品 IDSAF BN 奥地利
+M258 TM5SDI12D 直流24V， 12点离散量漏型输入， I/O模块 1,087 中央库存 IDSAF BN 奥地利
+M258 TM5SDI2A 交流100~240V， 2点离散量输入， I/O模块 425 订购产品 IDSAF BN 奥地利
+M258 TM5SDI2D 直流24V， 2点离散量漏型输入， I/O模块 247 订购产品 IDSAF BN 奥地利
+M258 TM5SDI2DF 2通道， 50kHz，高速计数模块 494 订购产品 IDSAF BN 奥地利
+M258 TM5SDI4A 交流100~240V， 4点离散量输入， I/O模块 790 订购产品 IDSAF BN 奥地利
+M258 TM5SDI4D 直流24V， 4点离散量漏型输入， I/O模块 445 订购产品 IDSAF BN 奥地利
+M258 TM5SDI6D 直流24V， 6点离散量漏型输入， I/O模块 583 订购产品 IDSAF BN 奥地利
+M258 TM5SDI6U 交流100~120V， 6点离散量输入， I/O模块 1,136 订购产品 IDSAF BN 奥地利
+M258 TM5SDM12DT 直流24V， 8点离散量输入， 4点源型晶体管输出， I/O模块 1,156 订购产品 IDSAF BN 奥地利
+M258 TM5SDO12T 直流24V， 12点源型晶体管输出， 0.5A 1,264 中央库存 IDSAF BN 奥地利
+M258 TM5SDO2R 直流24~36V，交流184~276V， 2点继电器输出， 5A 550 订购产品 IDSAF BN 奥地利
+M258 TM5SDO2S 交流100V~240V， 2点固态输出， 1A 696 订购产品 IDSAF BN 奥地利
+M258 TM5SDO2T 直流24V， 2点源型晶体管输出， 0.5A 376 订购产品 IDSAF BN 奥地利
+M258 TM5SDO4R 直流24~36V，交流184~276V， 4点继电器输出， 5A 1,048 中央库存 IDSAF BN 奥地利
+M258 TM5SDO4T 直流24V， 4点源型晶体管输出， 0.5A 563 订购产品 IDSAF BN 奥地利
+M258 TM5SDO4TA 直流24V， 4点源型晶体管输出， 2A 948 订购产品 IDSAF BN 奥地利
+M258 TM5SDO6T 直流24V， 6点源型晶体管输出， 0.5A 741 订购产品 IDSAF BN 奥地利
+M258 TM5SDO8TA 直流24V， 8点源型晶体管输出， 2A 1,380 订购产品 IDSAF BN 奥地利
+M258 TM5SE1IC01024 直流24V， 1通道， 100kHz，高速计数模块 3,318 订购产品 IDSAF BN 奥地利
+M258 TM5SE1IC02505 直流5V， 1通道， 250kHz，高速计数模块 7,140 订购产品 IDSAF BN 奥地利
+M258 TM5SE1SC10005 直流5V， 1通道， 1Mb SSI输入 3,759 订购产品 IDSAF BN 奥地利
+M258 TM5SE2IC01024 直流24V， 2通道， 100kHz，高速计数模块 4,741 订购产品 IDSAF BN 奥地利
+M258 TM5SEAISG 全桥应变计输入， 24位精度 6,500 订购产品 IDSAF BN 奥地利
+M258 TM5SMM6D2L 直流24V， 4点离散量输入， 2点源型晶体管输出， 1通道-10V~10V/0-20mA模拟量输入， 1通道-10V~10V/0-20mA模拟量输出 2,300 订购产品 IDSAF BN 奥地利
+M258 TM5SPDD12F 直流24V电源模块， 12个24V公共端，内置6.3A熔断电阻 572 订购产品 IDSAF BN 奥地利
+M258 TM5SPDG12F 直流24V电源模块， 12个0V公共端，内置6.3A熔断电阻 572 订购产品 IDSAF BN 奥地利
+M258 TM5SPDG5D4F 直流24V电源模块， 5个0V公共端， 5个24V公共端，内置6.3A熔断电阻 572 订购产品 IDSAF BN 奥地利
+M258 TM5SPDG6D6F 直流24V电源模块， 6个0V公共端， 6个24V公共端，内置6.3A熔断电阻 701 订购产品 IDSAF BN 奥地利
+M258 TM5SPS1 24V电源模块，为I/O模块提供电源 345 中央库存 IDSAF BN 奥地利
+M258 TM5SPS1F 24V电源模块，为I/O模块提供电源， 6.3A内置熔断器 543 订购产品 IDSAF BN 奥地利
+M258 TM5SPS1P 4通道-10V~10V电位器扩展模块 1,509 订购产品 IDSAF BN 奥地利
+M258 TM5SPS2 24V电源模块，为I/O模块及TM5总线提供电源 899 中央库存 IDSAF BN 奥地利
+M258 TM5SPS2F 24V电源模块，为I/O模块TM5总线提供电源， 6.3A内置熔断器 1,107 订购产品 IDSAF BN 奥地利
+M258 TM5SPS3 24V电源模块，为CANopen通信模块、 I/O模块及TM5总线提供电源 780 订购产品 IDSAF BN 奥地利
+LMC058 LMC058LF42 42点本体，内置一个以太网口，一个CANopen主站，一个CANmotion主站，一个串口 23,800 库存产品 IDSAF MK
+LMC058 LMC058LF424 42点本体，内置一个以太网口，一个CANopen主站，一个CANmotion主站，两个PCI插槽，一个串口，4路模拟量 26,800 订购产品 IDSAF MK
+LMC058 LMC058LF42S0 42点本体，内置一个以太网口，一个CANopen主站，一个CANmotion主站，一个串口,支持TVDA行业附加库 23,800 库存产品 IDSAF MK
+LMC058 LMC058LF424S0 42点本体，内置一个以太网口，一个CANopen主站，一个CANmotion主站，两个PCI插槽，一个串口，4路模拟量,支持TVDA行
+业附加库 26,800 订购产品 IDSAF MK
+LMC058 VW3A3521 ATV-IMC控制卡 5,640 中央库存 IDSAF MK 印度尼西亚
+TM7 IP67 TCSCCN1FNX10SA CAN总线电缆（总线入）， 10米，配有1个A编码5针直型母口M12连接器和1条飞线 760 订购产品 IDSAF BN 波兰
+TM7 IP67 TCSCCN1FNX1SA CAN总线电缆（总线入）， 1米，配有1个A编码5针直型母口M12连接器和1条飞线（暂未发布） 380 订购产品 IDSAF BN 波兰
+TM7 IP67 TCSCCN1FNX25SA CAN总线电缆（总线入）， 25米，配有1个A编码5针直型母口M12连接器和1条飞线（暂未发布） 1,331 订购产品 IDSAF BN 波兰
+TM7 IP67 TCSCCN1FNX3SA CAN总线电缆（总线入）， 3米，配有1个A编码5针直型母口M12连接器和1条飞线 494 订购产品 IDSAF BN 波兰
+TM7 IP67 TCSCCN1M1F03 CAN总线电缆， 0.3米，每端配有2个A编码5针直型M12连接器， 1个公口1个母口 479 订购产品 IDSAF BN 波兰
+TM7 IP67 TCSCCN1M1F1 CAN总线电缆， 1米，每端配有2个A编码5针直型M12连接器， 1个公口1个母口 532 订购产品 IDSAF BN 波兰
+TM7 IP67 TCSCCN1M1F10 CAN总线电缆， 10米，每端配有2个A编码5针直型M12连接器， 1个公口1个母口 1,065 订购产品 IDSAF BN 波兰
+TM7 IP67 TCSCCN1M1F15 CAN总线电缆， 15米，每端配有2个A编码5针直型M12连接器， 1个公口1个母口 1,331 订购产品 IDSAF BN 波兰
+TM7 IP67 TCSCCN1M1F2 CAN总线电缆， 2米，每端配有2个A编码5针直型M12连接器， 1个公口1个母口 639 订购产品 IDSAF BN 波兰
+TM7 IP67 TCSCCN1M1F5 CAN总线电缆， 5米，每端配有2个A编码5针直型M12连接器， 1个公口1个母口 798 订购产品 IDSAF BN 波兰
+TM7 IP67 TCSCCN1MNX10SA CAN总线电缆（总线出）， 10米，配有1个A编码5针直型公口M12连接器和1条飞线 760 订购产品 IDSAF BN 波兰
+TM7 IP67 TCSCCN1MNX1SA CAN总线电缆（总线出）， 1米，配有1个A编码5针直型公口M12连接器和1条飞线（暂未发布） 380 订购产品 IDSAF BN 波兰
+TM7 IP67 TCSCCN1MNX25SA CAN总线电缆（总线出）， 25米，配有1个A编码5针直型公口M12连接器和1条飞线（暂未发布） 1,331 订购产品 IDSAF BN 波兰
+TM7 IP67 TCSCCN1MNX3SA CAN总线电缆（总线出）， 3米，配有1个A编码5针直型公口M12连接器和1条飞线 494 订购产品 IDSAF BN 波兰
+TM7 IP67 TCSCCN2FNX10SA CAN总线电缆（总线入）， 10米，配有1个A编码5针弯角母口M12连接器和1条飞线 760 订购产品 IDSAF BN 波兰
+TM7 IP67 TCSCCN2FNX1SA CAN总线电缆（总线入）， 1米，配有1个A编码5针弯角母口M12连接器和1条飞线（暂未发布） 380 订购产品 IDSAF BN 波兰
+TM7 IP67 TCSCCN2FNX25SA CAN总线电缆（总线入）， 25米，配有1个A编码5针弯角母口M12连接器和1条飞线 1,331 订购产品 IDSAF BN 波兰
+TM7 IP67 TCSCCN2FNX3SA CAN总线电缆（总线入）， 3米，配有1个A编码5针弯角母口M12连接器和1条飞线 494 订购产品 IDSAF BN 波兰
+TM7 IP67 TCSCCN2M2F03 CAN总线电缆， 0.3米，每端配有2个A编码5针弯角M12连接器， 1个公口1个母口 479 订购产品 IDSAF BN 波兰
+TM7 IP67 TCSCCN2M2F1 CAN总线电缆， 1米，每端配有2个A编码5针弯角M12连接器， 1个公口1个母口 532 订购产品 IDSAF BN 波兰
+TM7 IP67 TCSCCN2M2F10 CAN总线电缆， 10米，每端配有2个A编码5针弯角M12连接器， 1个公口1个母口 1,065 订购产品 IDSAF BN 波兰
+TM7 IP67 TCSCCN2M2F15 CAN总线电缆， 15米，每端配有2个A编码5针弯角M12连接器， 1个公口1个母口 1,331 订购产品 IDSAF BN 波兰
+TM7 IP67 TCSCCN2M2F2 CAN总线电缆， 2米，每端配有2个A编码5针弯角M12连接器， 1个公口1个母口 639 订购产品 IDSAF BN 波兰
+TM7 IP67 TCSCCN2M2F5 CAN总线电缆， 5米，每端配有2个A编码5针弯角M12连接器， 1个公口1个母口 798 订购产品 IDSAF BN 波兰
+TM7 IP67 TCSCCN2MNX10SA CAN总线电缆（总线出）， 10米，配有1个A编码5针弯角公口M12连接器和1条飞线 760 订购产品 IDSAF BN 波兰
+TM7 IP67 TCSCCN2MNX1SA CAN总线电缆（总线出）， 1米，配有1个A编码5针弯角公口M12连接器和1条飞线（暂未发布） 380 订购产品 IDSAF BN 波兰
+TM7 IP67 TCSCCN2MNX25SA CAN总线电缆（总线出）， 25米，配有1个A编码5针弯角公口M12连接器和1条飞线（暂未发布） 1,331 订购产品 IDSAF BN 波兰
+TM7 IP67 TCSCCN2MNX3SA CAN总线电缆（总线出）， 3米，配有1个A编码5针弯角公口M12连接器和1条飞线 494 订购产品 IDSAF BN 波兰
+TM7 IP67 TCSXCN1FNX10E TM7扩展总线电缆（总线入）， 10米，配有1个B编码4针直型母口M12连接器和1条飞线 578 订购产品 IDSAF BN 波兰
+TM7 IP67 TCSXCN1FNX1E TM7扩展总线电缆（总线入）， 1米，配有1个B编码4针直型母口M12连接器和1条飞线 289 订购产品 IDSAF BN 波兰
+TM7 IP67 TCSXCN1FNX25E TM7扩展总线电缆（总线入）， 25米，配有1个B编码4针直型母口M12连接器和1条飞线（暂未发布） 1,011 订购产品 IDSAF BN 波兰
+TM7 IP67 TCSXCN1FNX3E TM7扩展总线电缆（总线入）， 3米，配有1个B编码4针直型母口M12连接器和1条飞线 376 订购产品 IDSAF BN 波兰
+TM7 IP67 TCSXCN1M15SA 传感器电缆， 15米，配有1个A编码5针直型公口M12连接器和1条飞线 752 订购产品 IDSAF BN 波兰
+TM7 IP67 TCSXCN1M1F03E TM7扩展总线电缆， 0.3米，每端配有2个B编码4针直型M12连接器， 1个公口1个母口 452 订购产品 IDSAF BN 波兰
+TM7 IP67 TCSXCN1M1F10E TM7扩展总线电缆， 10米，每端配有2个B编码4针直型M12连接器， 1个公口1个母口 1,004 订购产品 IDSAF BN 波兰
+TM7 IP67 TCSXCN1M1F15E TM7扩展总线电缆， 15米，每端配有2个B编码4针直型M12连接器， 1个公口1个母口 1,255 订购产品 IDSAF BN 波兰
+TM7 IP67 TCSXCN1M1F1E TM7扩展总线电缆， 1米，每端配有2个B编码4针直型M12连接器， 1个公口1个母口 502 订购产品 IDSAF BN 波兰
+TM7 IP67 TCSXCN1M1F2E TM7扩展总线电缆， 2米，每端配有2个B编码4针直型M12连接器， 1个公口1个母口 602 订购产品 IDSAF BN 波兰
+TM7 IP67 TCSXCN1M1F5E TM7扩展总线电缆， 5米，每端配有2个B编码4针直型M12连接器， 1个公口1个母口 753 订购产品 IDSAF BN 波兰
+TM7 IP67 TCSXCN1M2SA 传感器电缆， 2米，配有1个A编码5针直型公口M12连接器和1条飞线 361 订购产品 IDSAF BN 波兰
+TM7 IP67 TCSXCN1M5SA 传感器电缆， 5米，配有1个A编码5针直型公口M12连接器和1条飞线 451 订购产品 IDSAF BN 波兰
+TM7 IP67 TCSXCN1MNX10E TM7扩展总线电缆（总线出）， 10米，配有1个B编码4针直型公口M12连接器和1条飞线 578 订购产品 IDSAF BN 波兰
+TM7 IP67 TCSXCN1MNX1E TM7扩展总线电缆（总线出）， 1米，配有1个B编码4针直型公口M12连接器和1条飞线（暂未发布） 289 订购产品 IDSAF BN 波兰
+TM7 IP67 TCSXCN1MNX25E TM7扩展总线电缆（总线出）， 25米，配有1个B编码4针直型公口M12连接器和1条飞线（暂未发布） 1,011 订购产品 IDSAF BN 波兰
+TM7 IP67 TCSXCN1MNX3E TM7扩展总线电缆（总线出）， 3米，配有1个B编码4针直型公口M12连接器和1条飞线 376 订购产品 IDSAF BN 波兰
+TM7 IP67 TCSXCN2FNX10E TM7扩展总线电缆（总线入）， 10米，配有1个B编码4针弯角母口M12连接器和1条飞线 578 订购产品 IDSAF BN 波兰
+TM7 IP67 TCSXCN2FNX1E TM7扩展总线电缆（总线入）， 1米，配有1个B编码4针弯角母口M12连接器和1条飞线（暂未发布） 289 订购产品 IDSAF BN 波兰
+TM7 IP67 TCSXCN2FNX25E TM7扩展总线电缆（总线入）， 25米，配有1个B编码4针弯角母口M12连接器和1条飞线（暂未发布） 1,011 订购产品 IDSAF BN 波兰
+TM7 IP67 TCSXCN2FNX3E TM7扩展总线电缆（总线入）， 3米，配有1个B编码4针弯角母口M12连接器和1条飞线 376 订购产品 IDSAF BN 波兰
+TM7 IP67 TCSXCN2M15SA 传感器电缆， 15米，配有1个A编码5针弯角公口M12连接器和1条飞线 752 订购产品 IDSAF BN 波兰
+TM7 IP67 TCSXCN2M2F03E TM7扩展总线电缆， 0.3米，每端配有2个B编码4针弯角M12连接器， 1个公口1个母口 452 订购产品 IDSAF BN 波兰
+TM7 IP67 TCSXCN2M2F10E TM7扩展总线电缆， 10米，每端配有2个B编码4针弯角M12连接器， 1个公口1个母口 1,004 订购产品 IDSAF BN 波兰
+TM7 IP67 TCSXCN2M2F15E TM7扩展总线电缆， 15米，每端配有2个B编码4针弯角M12连接器， 1个公口1个母口 1,255 订购产品 IDSAF BN 波兰
+TM7 IP67 TCSXCN2M2F1E TM7扩展总线电缆， 1米，每端配有2个B编码4针弯角M12连接器， 1个公口1个母口 502 订购产品 IDSAF BN 波兰
+TM7 IP67 TCSXCN2M2F2E TM7扩展总线电缆， 2米，每端配有2个B编码4针弯角M12连接器， 1个公口1个母口 602 订购产品 IDSAF BN 波兰
+TM7 IP67 TCSXCN2M2F5E TM7扩展总线电缆， 5米，每端配有2个B编码4针弯角M12连接器， 1个公口1个母口 753 订购产品 IDSAF BN 波兰
+TM7 IP67 TCSXCN2M2SA 传感器电缆， 2米，配有1个A编码5针弯角公口M12连接器和1条飞线 361 订购产品 IDSAF BN 波兰
+TM7 IP67 TCSXCN2M5SA 传感器电缆， 5米，配有1个A编码5针弯角公口M12连接器和1条飞线 451 订购产品 IDSAF BN 波兰
+TM7 IP67 TCSXCN2MNX10E TM7扩展总线电缆（总线出）， 10米，配有1个B编码4针弯角公口M12连接器和1条飞线 578 订购产品 IDSAF BN 波兰
+TM7 IP67 TCSXCN2MNX1E TM7扩展总线电缆（总线出）， 1米，配有1个B编码4针弯角公口M12连接器和1条飞线 289 订购产品 IDSAF BN 波兰
+TM7 IP67 TCSXCN2MNX25E TM7扩展总线电缆（总线出）， 25米，配有1个B编码4针弯角公口M12连接器和1条飞线 1,011 订购产品 IDSAF BN 波兰
+TM7 IP67 TCSXCN2MNX3E TM7扩展总线电缆（总线出）， 3米，配有1个B编码4针弯角公口M12连接器和1条飞线 376 订购产品 IDSAF BN 波兰
+TM7 IP67 TCSXCNDFNX10V 电源电缆（输入）， 10米，配有1个4针直型母口M8连接器和1条飞线 342 订购产品 IDSAF BN 德国
+TM7 IP67 TCSXCNDFNX1V 电源电缆（输入）， 1米，配有1个4针直型母口M8连接器和1条飞线 171 订购产品 IDSAF BN 德国
+TM7 IP67 TCSXCNDFNX25V 电源电缆（输入）， 25米，配有1个4针直型母口M8连接器和1条飞线 599 订购产品 IDSAF BN 德国
+TM7 IP67 TCSXCNDFNX3V 电源电缆（输入）， 3米，配有1个4针直型母口M8连接器和1条飞线 222 订购产品 IDSAF BN 德国
+TM7 IP67 TCSXCNDMDF03V 电源电缆， 0.3米，每端配有2个4针直型M8连接器， 1个公口1个母口 192 订购产品 IDSAF BN 德国
+TM7 IP67 TCSXCNDMDF10V 电源电缆， 10米，每端配有2个4针直型M8连接器， 1个公口1个母口 426 订购产品 IDSAF BN 德国
+TM7 IP67 TCSXCNDMDF15V 电源电缆， 15米，每端配有2个4针直型M8连接器， 1个公口1个母口 532 订购产品 IDSAF BN 德国
+TM7 IP67 TCSXCNDMDF1V 电源电缆， 1米，每端配有2个4针直型M8连接器， 1个公口1个母口 213 订购产品 IDSAF BN 德国
+TM7 IP67 TCSXCNDMDF2V 电源电缆， 2米，每端配有2个4针直型M8连接器， 1个公口1个母口 255 订购产品 IDSAF BN 德国
+TM7 IP67 TCSXCNDMDF5V 电源电缆， 5米，每端配有2个4针直型M8连接器， 1个公口1个母口 319 订购产品 IDSAF BN 德国
+TM7 IP67 TCSXCNDMNX10V 电源电缆（输出）， 10米，配有1个4针直型公口M8连接器和1条飞线 342 订购产品 IDSAF BN 德国
+TM7 IP67 TCSXCNDMNX1V 电源电缆（输出）， 1米，配有1个4针直型公口M8连接器和1条飞线 171 订购产品 IDSAF BN 德国
+TM7 IP67 TCSXCNDMNX25V 电源电缆（输出）， 25米，配有1个4针直型公口M8连接器和1条飞线 599 订购产品 IDSAF BN 德国
+TM7 IP67 TCSXCNDMNX3V 电源电缆（输出）， 3米，配有1个4针直型公口M8连接器和1条飞线 222 订购产品 IDSAF BN 德国
+TM7 IP67 TCSXCNEFNX10V 电源电缆（输入）， 10米，配有1个4针弯角母口M8连接器和1条飞线 342 订购产品 IDSAF BN 德国
+TM7 IP67 TCSXCNEFNX1V 电源电缆（输入）， 1米，配有1个4针弯角母口M8连接器和1条飞线 171 订购产品 IDSAF BN 德国
+TM7 IP67 TCSXCNEFNX25V 电源电缆（输入）， 25米，配有1个4针弯角母口M8连接器和1条飞线 599 订购产品 IDSAF BN 德国
+TM7 IP67 TCSXCNEFNX3V 电源电缆（输入）， 3米，配有1个4针弯角母口M8连接器和1条飞线 222 订购产品 IDSAF BN 德国
+TM7 IP67 TCSXCNEMEF03V 电源电缆， 0.3米，每端配有2个4针弯角M8连接器， 1个公口1个母口 192 订购产品 IDSAF BN 德国
+TM7 IP67 TCSXCNEMEF10V 电源电缆， 10米，每端配有2个4针弯角M8连接器， 1个公口1个母口 426 订购产品 IDSAF BN 德国
+TM7 IP67 TCSXCNEMEF15V 电源电缆， 15米，每端配有2个4针弯角M8连接器， 1个公口1个母口 532 订购产品 IDSAF BN 德国
+TM7 IP67 TCSXCNEMEF1V 电源电缆， 1米，每端配有2个4针弯角M8连接器， 1个公口1个母口 213 订购产品 IDSAF BN 德国
+TM7 IP67 TCSXCNEMEF2V 电源电缆， 2米，每端配有2个4针弯角M8连接器， 1个公口1个母口 255 订购产品 IDSAF BN 德国
+TM7 IP67 TCSXCNEMEF5V 电源电缆， 5米，每端配有2个4针弯角M8连接器， 1个公口1个母口 319 订购产品 IDSAF BN 德国
+TM7 IP67 TCSXCNEXNX10V 电源电缆（输出）， 10米，配有1个4针弯角公口M8连接器和1条飞线 342 订购产品 IDSAF BN 德国
+TM7 IP67 TCSXCNEXNX1V 电源电缆（输出）， 1米，配有1个4针弯角公口M8连接器和1条飞线 171 订购产品 IDSAF BN 德国
+TM7 IP67 TCSXCNEXNX25V 电源电缆（输出）， 25米，配有1个4针弯角公口M8连接器和1条飞线 599 订购产品 IDSAF BN 德国
+TM7 IP67 TCSXCNEXNX3V 电源电缆（输出）， 3米，配有1个4针弯角公口M8连接器和1条飞线 222 订购产品 IDSAF BN 德国
+TM7 IP67 TM7ACCA M12密封插塞，一批50件 475 订购产品 IDSAF BN 奥地利
+TM7 IP67 TM7ACCB M8密封插塞，一批50件 475 订购产品 IDSAF BN 奥地利
+TM7 IP67 TM7ACMP 对称DIN导轨上的安装板 285 订购产品 IDSAF BN 奥地利
+TM7 IP67 TM7ACMP10 对称DIN导轨上的安装板，一批10件 3,969 订购产品 IDSAF BN 奥地利
+TM7 IP67 TM7ACTHA 用于热电偶测量的带温度探针的M12连接器 684 订购产品 IDSAF BN 奥地利
+TM7 IP67 TM7ACTLA 线路终端M12连接器 342 订购产品 IDSAF BN 奥地利
+TM7 IP67 TM7ACTW 螺丝刀两件套，用于将M8和M12连接器上的环紧固至正确的力矩 5,703 订购产品 IDSAF BN 奥地利
+TM7 IP67 TM7ACYC CAN总线Y型M12连接器 665 订购产品 IDSAF BN 奥地利
+TM7 IP67 TM7ACYCJ CAN总线Y型M12电缆 1,426 订购产品 IDSAF BN 奥地利
+TM7 IP67 TM7BAI4CLA IP67 扩展模块， 4通道0-20mA模拟量输入， 12位精度， M12连接器 5,147 订购产品 IDSAF BN 奥地利
+TM7 IP67 TM7BAI4PLA IP67扩展模块， 4通道铂电阻输入， 16位精度， M12连接器 6,455 订购产品 IDSAF BN 奥地利
+TM7 IP67 TM7BAI4TLA IP67扩展模块， 4通道热电偶输入， 16位精度， M12连接器 6,455 订购产品 IDSAF BN 奥地利
+TM7 IP67 TM7BAI4VLA IP67 扩展模块， 4通道+/-10V模拟量输入， 12位精度， M12连接器 5,147 订购产品 IDSAF BN 奥地利
+TM7 IP67 TM7BAM4CLA IP67 扩展模块， 2通道0-20mA模拟量输入， 2通道0-20mA模拟量输出， 12位精度， M12连接器 6,455 订购产品 IDSAF BN 奥地利
+TM7 IP67 TM7BAM4VLA IP67 扩展模块， 2通道+/- 10V模拟量输入， 2通道+/-10V模拟量输出， 12位精度， M12连接器 6,455 订购产品 IDSAF BN 奥地利
+TM7 IP67 TM7BAO4CLA IP67 扩展模块， 4通道0-20mA模拟量输出， 12位精度， M12连接器 6,289 订购产品 IDSAF BN 奥地利
+TM7 IP67 TM7BAO4VLA IP67 扩展模块， 4通道+/-10V模拟量输出， 12位精度， M12连接器 6,289 订购产品 IDSAF BN 奥地利
+TM7 IP67 TM7BDI16A IP67 扩展模块， 16通道24VDC离散量输入， M12连接器 3,401 订购产品 IDSAF BN 奥地利
+TM7 IP67 TM7BDI16B IP67 扩展模块， 16通道24VDC离散量输入， M8连接器 3,401 订购产品 IDSAF BN 奥地利
+TM7 IP67 TM7BDI8B IP67 扩展模块， 8通道24VDC离散量输入， M8连接器 2,721 订购产品 IDSAF BN 奥地利
+TM7 IP67 TM7BDM16A IP67扩展模块， 16通道24VDC离散量输入/输出， M12连接器 4,868 订购产品 IDSAF BN 奥地利
+TM7 IP67 TM7BDM16B IP67扩展模块， 16通道24VDC离散量输入/输出， M8连接器 4,868 订购产品 IDSAF BN 奥地利
+TM7 IP67 TM7BDM8B IP67扩展模块， 8通道24VDC离散量输入/输出， M8连接器 3,894 订购产品 IDSAF BN 奥地利
+TM7 IP67 TM7BDO8TAB IP67 扩展模块， 16通道24VDC离散量输出， M8连接器 2,971 订购产品 IDSAF BN 奥地利
+TM7 IP67 TM7NCOM08B IP67CANopen通信模块， 8通道24VDC离散量输入/输出， M8连接器 7,290 订购产品 IDSAF BN 奥地利
+TM7 IP67 TM7NCOM16A IP67CANopen通信模块， 16通道24VDC离散量输入/输出， M12连接器 9,113 订购产品 IDSAF BN 奥地利
+TM7 IP67 TM7NCOM16B IP67CANopen通信模块， 16通道24VDC离散量输入/输出， M8连接器 9,113 订购产品 IDSAF BN 奥地利
+TM7 IP67 TM7SPS1A IP67 电源模块， 24VDC/15W 1,628 订购产品 IDSAF BN 奥地利
+SoMachine MSDCHLLMFV31S0
+SoMachine
+V3.1解决方案扩展包，强制注册（ DVD光盘包，含有SoMachi
+ne V3.1光盘、 Solution扩展光盘，百人授权文件） 50,000 订购产品 IDSAF BN
+SoMachine MSDCHLLMTV31S0
+SoMachine
+V3.1解决方案扩展包，强制注册（ DVD光盘包，含有SoMachi
+ne V3.1光盘、 Solution扩展光盘、十人授权文件） 30,000 订购产品 IDSAF BN
+SoMachine MSDCHLLMUV31S0
+SoMachine
+V3.1解决方案扩展包，强制注册（ DVD光盘包，含有SoMachi
+ne V3.1光盘、 Solution扩展光盘、单人授权文件） 15,000 订购产品 IDSAF BN
+SoMachine MSDCHLUPDV31S0 SoMachine V3.1解决方案扩展包升级文件 3,000 订购产品 IDSAF BN
+SoMachine MSDCHNLMFA SoMachine V3.1百人授权文件，强制注册 45,000 订购产品 IDSAF BN
+SoMachine MSDCHNLMTA SoMachine十人授权文件，强制注册 25,000 订购产品 IDSAF BN 法国
+SoMachine MSDCHNLMUA SoMachine单人授权文件，强制注册 10,000 订购产品 IDSAF BN 法国
+SoMachine MSDCHNLRTA SoMachine十人授权文件，非强制注册 280 订购产品 IDSAF BN 法国
+SoMachine MSDCHNLRUA SoMachine单人授权文件，非强制注册 180 订购产品 IDSAF BN
+SoMachine MSDCHNSFNV31 SoMachine V3.1未授权软件（ DVD光盘，可使用30天） 3,000 中央库存 IDSAF BN
+Twido 499TWD01100 以太网桥，兼容所有带RS-485接口的Twido控制器 2,702 订购产品 IDSAF 39 日本
+Twido TM200HSC206DF 高速计数模块2通道60kHZ，卡簧端子 2,894 订购产品 IDSAF 39 印度尼西亚
+Twido TM200HSC206DT 高速计数模块2通道60kHZ，螺钉端子 2,839 订购产品 IDSAF 39 印度尼西亚
+Twido TSXCRJDB25 TSXCUSB485与TSXSCA62连接电缆 537 中央库存 IDSAF 39 日本
+Twido TSXCRJMD25 TSXCUSB485与PLC连接电缆 120 中央库存 IDSAF 39 日本
+Twido TSXPCX1031-C 串行多功能编程电缆 534 库存产品 IDSAF 39 日本
+Twido TWDFCN2K20 附件， 2个连接器（ 20pin） 96 订购产品 IDSAF 39 日本
+Twido TWDFCN2K26 附件， 2个连接器（ 26pin） 114 订购产品 IDSAF 39 日本
+Twido TWDFCW30K 预接线电缆，一端为HE10连接，一端为飞线，用于扩展模块,3米 192 库存产品 IDSAF 39 日本
+Twido TWDFCW30M 预接线电缆，一端为HE10连接，一端为飞线，用于本体模块,3米 194 库存产品 IDSAF 39 日本
+Twido TWDFCW50K 预接线电缆，一端为HE10连接，一端为飞线，用于扩展模块,5米 291 订购产品 IDSAF 39 日本
+Twido TWDFCW50M 预接线电缆，一端为HE10连接，一端为飞线，用于本体模块,5米 321 订购产品 IDSAF 39 日本
+Twido TWDFTB2T10 附件， 2个螺钉端子排（ 10路） 167 订购产品 IDSAF 39 日本
+Twido TWDFTB2T11 附件， 2个螺钉端子排（ 11路） 160 订购产品 IDSAF 39 日本
+Twido TWDFTB2T13 附件， 2个螺钉端子排（ 13路） 186 订购产品 IDSAF 39 日本
+Twido TWDFTB2T16 附件， 2个螺钉端子排（ 16路） 186 订购产品 IDSAF 39 日本
+Twido TWDLCAA10DRF 交流， 6点输入， 4点继电器输出，螺钉端子 2,172 库存产品 IDSAF 39 日本
+Twido TWDLCAA16DRF 交流， 9点输入， 7点继电器输出，螺钉端子 2,485 库存产品 IDSAF 39 日本
+Twido TWDLCAA24DRF 交流， 14点输入， 10点继电器输出，螺钉端子 2,854 库存产品 IDSAF 39 日本
+Twido TWDLCAA40DRF 交流， 24点输入， 14点继电器＋2点晶体管输出，螺钉端子 4,128 库存产品 IDSAF 39 印度尼西亚
+Twido TWDLCAE40DRF 交流， 24点输入， 14点继电器＋2点晶体管输出，螺钉端子，内置以太网 5,595 库存产品 IDSAF 39 印度尼西亚
+Twido TWDLCDA10DRF 直流， 6点输入， 4点继电器输出，螺钉端子 2,369 订购产品 IDSAF 39 日本
+Twido TWDLCDA16DRF 直流， 9点输入， 7点继电器输出，螺钉端子 2,734 订购产品 IDSAF 39 日本
+Twido TWDLCDA24DRF 直流， 14点输入， 10点继电器输出，螺钉端子 3,139 库存产品 IDSAF 39 日本
+Twido TWDLCDA40DRF 直流， 24点输入， 14点继电器＋2点晶体管输出，螺钉端子 4,251 库存产品 IDSAF 39 印度尼西亚
+Twido TWDLCDE40DRF 直流， 24点输入， 14点继电器＋2点晶体管输出，螺钉端子，内置以太网 5,763 库存产品 IDSAF 39 印度尼西亚
+Twido TWDLMDA20DRT 直流， 12点输入， 6点继电器＋2点晶体管输出，螺钉端子 3,116 库存产品 IDSAF 39 日本
+Twido TWDLMDA20DTK 直流， 12点输入， 8点晶体管（正逻辑）输出， HE10 2,961 库存产品 IDSAF 39 日本
+Twido TWDLMDA20DUK 直流， 12点输入， 8点晶体管（负逻辑）输出， HE10 3,407 订购产品 IDSAF 39 日本
+Twido TWDLMDA40DTK 直流， 24点输入， 16点晶体管（正逻辑）输出， HE10 4,378 库存产品 IDSAF 39 日本
+Twido TWDLMDA40DUK 直流， 24点输入， 16点晶体管（负逻辑）输出， HE10 5,207 库存产品 IDSAF 39 日本
+Twido TWDNAC232D RS232，选配件，通讯适配卡，miniDIN 274 库存产品 IDSAF 39 日本
+Twido TWDNAC485D RS485，选配件，通讯适配卡，miniDIN 274 中央库存 IDSAF 39 日本
+Twido TWDNAC485T RS485，选配件，通讯适配卡，端子型 274 库存产品 IDSAF 39 日本
+Twido TWDNCO1M CANopen主站模块 2,285 中央库存 IDSAF 39 日本
+Twido TWDNOI10M3 AS-I智能接线系统主站， M3Profile主站模块（不支持S-7.4模拟从站） 3,751 订购产品 IDSAF 39 日本
+Twido TWDNOZ232D RS232，选配件，扩展通讯模块，miniDIN 307 库存产品 IDSAF 39 日本
+Twido TWDNOZ485D RS485，选配件，扩展通讯模块，miniDIN 307 库存产品 IDSAF 39 日本
+Twido TWDNOZ485T RS485，选配件，扩展通讯模块，端子型 307 库存产品 IDSAF 39 日本
+Twido TWDPTO220DT Twido位控模块， 2通道，每通道200KHZ 3,495 库存产品 IDSAF 39 印度尼西亚
+Twido TWDPTOCAB05 Twido PTO 与 LXM23 预制连接电缆，0.5M 585 中央库存 IDSAF 39 日本
+Twido TWDPTOCAB10 Twido PTO 与 LXM23 预制连接电缆,1.0M 629 中央库存 IDSAF 39 日本
+Twido TWDPTOCAB30 Twido PTO 与 LXM23 预制连接电缆,3M 805 中央库存 IDSAF 39 日本
+Twido TWDSMD1004V30M TwidoAdjust与笔记本适应接口 3,721 订购产品 IDSAF 39 日本
+Twido TWDSPU1004V10M TwidoAdjust蓝牙适应接口 3,592 订购产品 IDSAF 39 日本
+Twido TWDXCA2A10M 模拟电压输入线缆， 1米 118 订购产品 IDSAF 39 日本
+Twido TWDXCAFD010 接线电缆，一端为miniDIN连接器，一端为飞线， 1米 114 订购产品 IDSAF 39 日本
+Twido TWDXCAFJ010 接线电缆，带RJ45连接器，一端为飞线， 1米 128 订购产品 IDSAF 39 日本
+Twido TWDXCAISO Modbus隔离器 1,471 订购产品 IDSAF 39 日本
+Twido TWDXCAMD030 Twido与SR2MOD03 modem连接电缆，1Mini-Din, 1 SubD 9M,3米 420 订购产品 IDSAF 39 日本
+Twido TWDXCARJ003 接线电缆，用于连接miniDIN到RJ45， 0.3米 128 订购产品 IDSAF 39 日本
+Twido TWDXCARJ010 接线电缆，用于连接miniDIN到RJ45， 1米 147 订购产品 IDSAF 39 日本
+Twido TWDXCARJ030 接线电缆，用于连接miniDIN到RJ45， 3米 384 订购产品 IDSAF 39 日本
+Twido TWDXCARJP03 编程协议电缆，用于连接miniDIN到RJ45， 0.3米 128 订购产品 IDSAF 39 日本
+Twido TWDXCARJP03P 编程协议电缆，用于连接miniDIN到RJ45， 0.3米 125 订购产品 IDSAF 39 日本
+Twido TWDXCPMFK32 32 K EEPROM 备份存储卡 569 订购产品 IDSAF 39 日本
+Twido TWDXCPMFK64 64 K EEPROM 扩展存储卡 770 订购产品 IDSAF 39 日本
+Twido TWDXCPMFK96 96 K EEPROM 扩展存储卡 1,028 订购产品 IDSAF 39 日本
+Twido TWDXCPODC 迷你显示操作面板 346 订购产品 IDSAF 39 日本
+Twido TWDXCPODM 迷你显示操作面板扩展模块 459 订购产品 IDSAF 39 日本
+Twido TWDXCPRTC 实时时钟卡 269 库存产品 IDSAF 39 日本
+Twido TWDXMT5 附件，直接安装卡件+B29 162 订购产品 IDSAF 39 日本
+Twido TWDXSM14 输入模拟器， 14路 1,422 订购产品 IDSAF 39 日本
+Twido TWDXSM6 输入模拟器， 6路 649 订购产品 IDSAF 39 日本
+Twido TWDXSM9 输入模拟器， 9路 972 订购产品 IDSAF 39 日本
+Zelio Logic SR1CBL01 1.8M电脑连接线 1,282 订购产品 IDSAF SB 法国
+Zelio Logic SR2A101BD DC24V，6点输入，4继电器输出，不带时钟，带面板 1,140 中央库存 IDSAF SB 法国
+Zelio Logic SR2A101FU AC100～240V，6输入，4继电器输出，不带时钟，带面板 1,307 库存产品 IDSAF SB 法国
+Zelio Logic SR2A201BD DC24V，12(2路AI）输入，8继电器输出，不带时钟，带面板 1,799 库存产品 IDSAF SB 法国
+Zelio Logic SR2A201FU AC100～240V，12输入，8继电器输出，不带时钟，带面板 1,824 中央库存 IDSAF SB 法国
+Zelio Logic SR2B121B AC24V，8输入，4继电器输出，带时钟，带面板 1,305 订购产品 IDSAF SB 法国
+Zelio Logic SR2B121BD DC24V，8(4路AI）输入，4继电器输出，带时钟，带面板 1,503 中央库存 IDSAF SB 法国
+Zelio Logic SR2B121FU AC100～240V，8输入，4继电器输出，带时钟，带面板 1,503 库存产品 IDSAF SB 法国
+Zelio Logic SR2B121JD DC12V，8(4路AI）输入，4继电器输出，带时钟，带面板 1,307 订购产品 IDSAF SB 法国
+Zelio Logic SR2B122BD DC24V，8(4路AI）输入，4晶体管输出，带时钟，带面板 1,154 订购产品 IDSAF SB 法国
+Zelio Logic SR2B201B AC24V，12输入，8继电器输出，带时钟，带面板 1,962 订购产品 IDSAF SB 法国
+Zelio Logic SR2B201BD DC24V，12(6路AI）输入，8继电器输出，带时钟，带面板 1,899 中央库存 IDSAF SB 法国
+Zelio Logic SR2B201FU AC100～240V，12输入，8继电器输出，带时钟，带面板 1,996 中央库存 IDSAF SB 法国
+Zelio Logic SR2B201JD DC12V，12(6路AI）输入，8继电器输出，带时钟，带面板 1,899 订购产品 IDSAF SB 法国
+Zelio Logic SR2B202BD DC24V，12(6路AI）输入，8晶体管输出，带时钟，带面板 1,910 订购产品 IDSAF SB 法国
+Zelio Logic SR2BTC01 蓝牙模块 3,121 订购产品 IDSAF SB 法国
+Zelio Logic SR2CBL01 PC用串口编程电缆 （3米） 877 订购产品 IDSAF SB 法国
+Zelio Logic SR2CBL07 连接电缆，用于Modem远程通讯转接模块和逻辑控制器间 930 订购产品 IDSAF SB 法国
+Zelio Logic SR2CBL08 SR2/3 通讯电缆 408 订购产品 IDSAF SB 法国
+Zelio Logic SR2COM01 Modem远程通讯转接模块 2,059 订购产品 IDSAF SB 法国
+Zelio Logic SR2D101BD DC24V，6点输入，4继电器输出，不带时钟，不带面板 995 订购产品 IDSAF SB 法国
+Zelio Logic SR2D101FU AC100～240V，6输入，4继电器输出，不带时钟，不带面板 1,027 中央库存 IDSAF SB 法国
+Zelio Logic SR2D201BD DC24V，12(2路AI）输入，8继电器输出，不带时钟，不带面板 1,637 中央库存 IDSAF SB 法国
+Zelio Logic SR2D201FU AC100～240V，12输入，8继电器输出，不带时钟，不带面板 1,650 库存产品 IDSAF SB 法国
+Zelio Logic SR2E121B AC24V，8输入，4继电器输出，带时钟，不带面板 1,071 订购产品 IDSAF SB 法国
+Zelio Logic SR2E121BD DC24V，8(4路AI）输入，4继电器输出，带时钟，不带面板 1,071 中央库存 IDSAF SB 法国
+Zelio Logic SR2E121FU AC100～240V，8输入，4继电器输出，带时钟，不带面板 1,095 中央库存 IDSAF SB 法国
+Zelio Logic SR2E201B AC24V，12输入，8继电器输出，带时钟，不带面板 1,686 订购产品 IDSAF SB 法国
+Zelio Logic SR2E201BD DC24V，12(6路AI）输入，8继电器输出，带时钟，不带面板 1,686 订购产品 IDSAF SB 法国
+Zelio Logic SR2E201FU AC100～240V，12输入，8继电器输出，带时钟，不带面板 1,709 订购产品 IDSAF SB 法国
+Zelio Logic SR2MEM01 EEPROM备份存储卡 578 订购产品 IDSAF SB 法国
+Zelio Logic SR2MEM02 EEPROM备份存储卡(可更新固件) 423 订购产品 IDSAF SB 法国
+Zelio Logic SR2MOD01 RTU Modem 7,884 订购产品 IDSAF SB 法国
+Zelio Logic SR2MOD02 GSM Modem 6,344 订购产品 IDSAF SB 法国
+Zelio Logic SR2USB01 PC用USB口编程电缆 （3米） 1,205 库存产品 IDSAF SB 法国
+Zelio Logic SR3B101B AC24V，6输入，4继电器输出，带时钟，带面板 1,348 订购产品 IDSAF SB 法国
+Zelio Logic SR3B101BD DC24V，6(4路AI)输入，4继电器输出，带时钟，带面板 1,349 订购产品 IDSAF SB 法国
+Zelio Logic SR3B101FU AC100~240V，6输入，4继电器输出，带时钟，带面板 1,384 订购产品 IDSAF SB 法国
+Zelio Logic SR3B102BD DC24V，6(4路AI)输入，4晶体管输出，带时钟，带面板 1,192 订购产品 IDSAF SB 法国
+Zelio Logic SR3B261B AC24V， 16输入， 10继电器输出，带时钟，带面板 2,052 订购产品 IDSAF SB 法国
+Zelio Logic SR3B261BD DC24V，16(6路AI)输入，10继电器输出，带时钟，带面板 2,024 中央库存 IDSAF SB 法国
+Zelio Logic SR3B261FU AC100~240V，16输入，10继电器输出，带时钟，带面板 2,024 中央库存 IDSAF SB 法国
+Zelio Logic SR3B261JD DC12V， 16(6路AI)输入， 10继电器输出，带时钟，带面板 2,749 订购产品 IDSAF SB 法国
+Zelio Logic SR3B262BD DC24V，16(6路AI)输入，10晶体管输出，带时钟，带面板 1,996 订购产品 IDSAF SB 法国
+Zelio Logic SR3MBU01BD Modbus从站通讯扩展模块(仅限与24VDC类型的SR3本体配合使用) 1,243 订购产品 IDSAF SB 法国
+Zelio Logic SR3NET01BD Ethernet扩展模块 2,409 订购产品 IDSAF SB 法国
+Zelio Logic SR3XT101B AC24V， 6输入， 4继电器输出 712 订购产品 IDSAF SB 法国
+Zelio Logic SR3XT101BD DC24V，6输入，4继电器输出 712 订购产品 IDSAF SB 法国
+Zelio Logic SR3XT101FU AC100～240V，6输入，4继电器输出 712 订购产品 IDSAF SB 法国
+Zelio Logic SR3XT101JD DC12V， 6输入， 4继电器输出 869 订购产品 IDSAF SB 法国
+Zelio Logic SR3XT141B AC24V， 8输入， 6继电器输出 970 订购产品 IDSAF SB 法国
+Zelio Logic SR3XT141BD DC24V，8输入，6继电器输出 970 订购产品 IDSAF SB 法国
+Zelio Logic SR3XT141FU AC100～240V，8输入，6继电器输出 970 订购产品 IDSAF SB 法国
+Zelio Logic SR3XT141JD DC12V， 8输入， 6继电器输出 1,187 订购产品 IDSAF SB 法国
+Zelio Logic SR3XT43BD 2路输入(1路0-10V，1路0-20mA或PT100)；2路输出，0-10V，10位 1,787 订购产品 IDSAF SB 法国
+Zelio Logic SR3XT61B AC24V， 4输入， 2继电器输出 484 订购产品 IDSAF SB 法国
+Zelio Logic SR3XT61BD DC24V，4输入，2继电器输出 484 订购产品 IDSAF SB 法国
+Zelio Logic SR3XT61FU AC100～240V，4输入，2继电器输出 484 订购产品 IDSAF SB 法国
+Zelio Logic SR3XT61JD DC12V， 4输入， 2继电器输出 593 订购产品 IDSAF SB 法国
+Advantys Accessory ABR7S33 插入式继电器，12mm，DC24V，10A，C/O 88 订购产品 IDSAF SF 法国
+Advantys Accessory ABS2EA01EF 插入式输入固态继电器 #N/A 订购产品 IDSAF SA 法国
+Advantys Accessory ABS2EA01EM 插入式输入固态继电器 453 订购产品 IDSAF SF 法国
+Advantys Accessory ABS2EA02EF 插入式输入固态继电器 353 订购产品 IDSAF SF 法国
+Advantys Accessory ABS2EA02EM 插入式输入固态继电器 453 订购产品 IDSAF SF 法国
+Advantys Accessory ABS2EC01EA 插入式输入固态继电器 #N/A 订购产品 IDSAF SA 法国
+Advantys Accessory ABS2EC01EB 插入式输入固态继电器 #N/A 订购产品 IDSAF SA 法国
+Advantys Accessory ABS2EC01EE 插入式输入固态继电器 334 订购产品 IDSAF SF 法国
+Advantys Accessory ABS2SA01MB 插入式输出固态继电器 #N/A 订购产品 IDSAF SA 法国
+Advantys Accessory ABS2SA02MB 插入式输出固态继电器，S230 #N/A 订购产品 IDSAF SA 法国
+Advantys Accessory ABS2SC01EB 插入式输出固态继电器 #N/A 订购产品 IDSAF SA 法国
+Advantys Accessory ABS2SC02EB 插入式输出固态继电器，S24 #N/A 订购产品 IDSAF SA 法国
+Advantys Accessory ABS7SA3M 输出固态继电器，AC24～240V，输出电流1.5A 307 订购产品 IDSAF SF 法国
+Advantys Accessory ABS7SC1B WIR BAS SORTIE 24VDC/2A 448 订购产品 IDSAF SF 法国
+Advantys Accessory ABS7SC2E 输出固态继电器，DC5～48VDC 175 订购产品 IDSAF SF 法国
+Advantys Accessory ABS7SC3BA 输出固态继电器，DC24VDC，2A 335 订购产品 IDSAF SF 法国
+Advantys Accessory ABS7SC3E 输出固态继电器，DC5～48V 335 订购产品 IDSAF SF 法国
+Advantys Accessory SR2SFT02 软件，电缆 535 订购产品 IDSAF SF 法国
+Advantys Accessory TCSATN011F1 2m，带5-针触电直头M12插座连接器的跨线,IP67 210 订购产品 IDSAF SF
+Advantys Accessory TCSATN01N2 带5针弯头M12插座终端连接器的跨线，2m,IP67 154 订购产品 IDSAF SF
+Advantys Accessory TCSATV011F1 2跟扁平电缆分支连接器，1根用于ASI，1根用于单独电源；2m，带5-针触电直头M12插座连接器的跨线,IP67 422 订购产品 IDSAF SF
+Advantys Accessory XZCB10201 ASI扁平电缆，20m，黄色 1,377 订购产品 IDSAF SF 德国
+Advantys Accessory XZCB10201H ASI扁平电缆，20m，黄色，TPE 1,011 订购产品 IDSAF SF 奥地利
+Advantys Accessory XZCB10202 ASI扁平电缆，20m，黑色 1,377 订购产品 IDSAF SF 德国
+Advantys Accessory XZCB10202H ASI扁平电缆，20m，黑色，TPE 1,011 订购产品 IDSAF SF 奥地利
+Advantys Accessory XZCB10501 ASI扁平电缆，50m，黄色 3,450 订购产品 IDSAF SF 德国
+Advantys Accessory XZCB10501H ASI扁平电缆，50m，黄色，TPE 2,439 订购产品 IDSAF SF 德国
+Advantys Accessory XZCB10502 ASI扁平电缆，50m，黑色 3,450 订购产品 IDSAF SF 奥地利
+Advantys Accessory XZCB10502H ASI扁平电缆，50m，黑色，TPE 2,439 订购产品 IDSAF SF 德国
+Advantys Accessory XZCB11001 ASI扁平电缆，100m，黄色 6,833 订购产品 IDSAF SF 奥地利
+Advantys Accessory XZCB11001H ASI扁平电缆，100m，黄色，TPE 4,741 订购产品 IDSAF SF 德国
+Advantys Accessory XZCB11002 ASI扁平电缆，100m，黑色 6,827 订购产品 IDSAF SF 奥地利
+Advantys Accessory XZCB11002H ASI扁平电缆，100m，黑色，TPE 4,741 订购产品 IDSAF SF 德国
+Advantys Accessory XZCE40 电缆压盖保护密封 37 订购产品 IDSAF SF 德国
+Advantys Accessory XZCG01205D 带5针直头M12插座终端连接器的跨线，0.6m 398 订购产品 IDSAF SF 德国
+Advantys Accessory XZCG0121C 带5针弯头M12插座终端连接器的跨线，1m 407 订购产品 IDSAF SF 德国
+Advantys Accessory XZMC11 编址单元 8,519 订购产品 IDSAF SF 德国
+Advantys Accessory XZMG11 用于连接到编址单元XZMC11的适配电缆,绿色接线端子 267 订购产品 IDSAF SF 德国
+Advantys Accessory XZMG12 用于连接到编址单元XZMC11的适配电缆，0.3m 581 订购产品 IDSAF SF 德国
+Advantys Accessory XZMG13 用于连接到编址单元XZMC11的适配电缆 517 订购产品 IDSAF SF 德国
+Advantys Accessory XZML12222 网关模块，MODBUS,RS232 20,110 订购产品 IDSAF SF 德国
+Advantys Accessory XZML13212 网关模块，MODBUS,RS485 24,822 订购产品 IDSAF SF 德国
+Advantys Accessory XZML16212 网关模块，MODBUS PLUS,RS485 28,404 订购产品 IDSAF SF 德国
+Advantys Accessory XZML16222 网关模块，MODBUS PLUS,RS845 26,042 订购产品 IDSAF SF 德国
+Advantys ASI ASI20MA2VU 模拟量模块化接口模板，可供拆卸螺钉接线端子，2输入，DC0～10V 3,227 订购产品 IDSAF SF 法国
+Advantys ASI ASI20MACC1 ASI和辅助电源连接器 111 订购产品 IDSAF SF 法国
+Advantys ASI ASI20MACC1149 ASI和辅助电源连接器 320 订购产品 IDSAF SF 法国
+Advantys ASI ASI20MACC1249 ASI和辅助电源连接器 320 订购产品 IDSAF SF 法国
+Advantys ASI ASI20MACC2 输入/输出连接器，螺钉 126 订购产品 IDSAF SF 法国
+Advantys ASI ASI20MACC249 输入/输出连接器，螺钉 466 订购产品 IDSAF SF 法国
+Advantys ASI ASI20MACC3 输入/输出连接器，弹簧 138 订购产品 IDSAF SF 法国
+Advantys ASI ASI20MACC349 输入/输出连接器，弹簧 500 订购产品 IDSAF SF 法国
+Advantys ASI ASI20MACC4 ASI和辅助电源连接器，螺钉 99 订购产品 IDSAF SF 法国
+Advantys ASI ASI20MACC4149 ASI和辅助电源连接器，螺钉 367 订购产品 IDSAF SF 法国
+Advantys ASI ASI20MACC4249 ASI和辅助电源连接器，螺钉 367 订购产品 IDSAF SF 法国
+Advantys ASI ASI20MACC5 标签 9 订购产品 IDSAF SF 法国
+Advantys ASI ASI20MACC549 标签 217 订购产品 IDSAF SF 法国
+Advantys ASI ASI20MACC649 标签 200 订购产品 IDSAF SF 法国
+Advantys ASI ASI20MT2I1OTE 开关量模块化接口模板，可供拆卸螺钉接线端子，扩展A/B寻址I/O，2输入，1输出，AC250V/2A三端双向 1,643 订购产品 IDSAF SF 法国
+Advantys ASI ASI20MT4I3ORE 开关量模块化接口模板，可供拆卸螺钉接线端子，扩展A/B寻址I/O，4输入，3输出，AC250V/2A继电器 2,214 订购产品 IDSAF SF 法国
+Advantys ASI ASI20MT4I3ORE49 开关量模块化接口模板，可供拆卸螺钉接线端子，扩展A/B寻址I/O，4输入，3输出 1,137 订购产品 IDSAF SF 法国
+Advantys ASI ASI20MT4I3OSA49 开关量模块化接口模板，可供拆卸螺钉接线端子，扩展A/B寻址I/O，2输入，1输出，AC250V/2A三端双向 1,147 订购产品 IDSAF SF 法国
+Advantys ASI ASI20MT4I3OSAE 开关量模块化接口模板，可供拆卸螺钉接线端子，扩展A/B寻址I/O，4输入，隔离型，3输出，DC24V/0.6A晶体管 1,911 订购产品 IDSAF SF 法国
+Advantys ASI ASI20MT4I3OSE 开关量模块化接口模板，可供拆卸螺钉接线端子，扩展A/B寻址I/O，4输入，3输出，DC24V/0.6A晶体管 1,772 订购产品 IDSAF SF 法国
+Advantys ASI ASI20MT4I4OR 开关量模块化接口模板，可供拆卸螺钉接线端子，标准寻址I/O，4输入，4输出，AC250V/2A继电器 2,059 订购产品 IDSAF SF 法国
+Advantys ASI ASI20MT4I4OR49 开关量模块化接口模板，可供拆卸螺钉接线端子，扩展A/B寻址I/O，4输入，4输出 1,181 订购产品 IDSAF SF 法国
+Advantys ASI ASI20MT4I4OS 开关量模块化接口模板，可供拆卸螺钉接线端子，扩展A/B寻址I/O，4输入，4输出，DC24V/0.5A晶体管 1,689 订购产品 IDSAF SF 法国
+Advantys ASI ASI20MT4I4OSA 开关量模块化接口模板，可供拆卸螺钉接线端子，扩展A/B寻址I/O，4输入，隔离型，4输出，DC24V/0.5A晶体管 1,821 订购产品 IDSAF SF 法国
+Advantys ASI ASI20MT4IE 开关量模块化接口模板，可供拆卸螺钉接线端子，扩展A/B寻址I/O，4输入，1输出，AC250V/2A三端双向 1,220 订购产品 IDSAF SF 法国
+Advantys ASI ASI20MT4IE49 开关量模块化接口模板，可供拆卸螺钉接线端子，扩展A/B寻址I/O，4输入，1输出，AC250V/2A三端双向 883 订购产品 IDSAF SF 法国
+Advantys ASI ASI67FACC1 密封塞，适用于M12插座，10/包 21 订购产品 IDSAF SF 印度尼西亚
+Advantys ASI ASI67FACC2 热缩电阻终端，10/包 17 订购产品 IDSAF SF 印度尼西亚
+Advantys ASI ASI67FFB01 紧凑型，45mm，4通道，导轨安装 117 订购产品 IDSAF SF 印度尼西亚
+Advantys ASI ASI67FFB02 紧凑型，45mm，4通道，非导轨安装 117 订购产品 IDSAF SF 印度尼西亚
+Advantys ASI ASI67FFB03 平板式，60mm，8通道，非导轨安装 158 订购产品 IDSAF SF 印度尼西亚
+Advantys ASI ASI67FFP03E 扩展A/B寻址方式，紧凑型，45mm，4通道，3输出 2,003 订购产品 IDSAF SF 印度尼西亚
+Advantys ASI ASI67FFP04A 标准寻址方式，紧凑型，45mm，4通道，4输出 1,864 订购产品 IDSAF SF 印度尼西亚
+Advantys ASI ASI67FFP04D 标准寻址方式，紧凑型，45mm，4通道，4输出 1,864 订购产品 IDSAF SF 印度尼西亚
+Advantys ASI ASI67FFP22A 标准寻址方式，紧凑型，45mm，4通道，2输入，2输出 1,814 订购产品 IDSAF SF 印度尼西亚
+Advantys ASI ASI67FFP22D 标准寻址方式，紧凑型，45mm，4通道，2输入，2输出 1,814 订购产品 IDSAF SF 印度尼西亚
+Advantys ASI ASI67FFP40E 扩展A/B寻址方式，紧凑型，45mm，4通道，4输入 1,608 订购产品 IDSAF SF 印度尼西亚
+Advantys ASI ASI67FFP40EY 扩展A/B寻址方式，紧凑型，45mm，4通道，4输入，双引脚Y 1,608 订购产品 IDSAF SF 印度尼西亚
+Advantys ASI ASI67FFP43E 扩展A/B寻址方式，平板型，60mm，8通道，4输入，3输出 2,589 订购产品 IDSAF SF 印度尼西亚
+Advantys ASI ASI67FFP43EY 扩展A/B寻址方式，平板型， 60mm， 8通道， 4输入， 3输出，双引脚Y 2,589 订购产品 IDSAF SF 印度尼西亚
+Advantys ASI ASI67FFP44A 标准寻址方式，平板型，60mm，8通道，4输入，4输出 2,416 订购产品 IDSAF SF 印度尼西亚
+Advantys ASI ASI67FFP44D 标准寻址方式，平板型，60mm，8通道，4输入，4输出 2,416 订购产品 IDSAF SF 印度尼西亚
+Advantys ASI ASI67FFP44DY 标准寻址方式，平板型，60mm，8通道，4输入，4输出，双引脚Y 2,416 订购产品 IDSAF SF 印度尼西亚
+Advantys ASI ASI67FMP03E 扩展A/B寻址方式，紧凑型，45mm，4通道，3输出 2,416 订购产品 IDSAF SF 印度尼西亚
+Advantys ASI ASI67FMP04D 标准寻址方式，紧凑型，45mm，4通道，4输出 2,259 订购产品 IDSAF SF 印度尼西亚
+Advantys ASI ASI67FMP22D 标准寻址方式，紧凑型，45mm，4通道，2输入，2输出 2,200 订购产品 IDSAF SF 印度尼西亚
+Advantys ASI ASI67FMP40D 标准寻址方式，紧凑型，45mm，4通道，4输入 1,881 订购产品 IDSAF SF 印度尼西亚
+Advantys ASI ASI67FMP40E 扩展A/B寻址方式，紧凑型，45mm，4通道，4输入 1,965 订购产品 IDSAF SF 印度尼西亚
+Advantys ASI ASI67FMP40EY 扩展A/B寻址方式，紧凑型，45mm，4通道，4输入，双引脚Y 1,965 订购产品 IDSAF SF 印度尼西亚
+Advantys ASI ASI67FMP43E 扩展A/B寻址方式，平板型，60mm，8通道，4输入，3输出 3,143 订购产品 IDSAF SF 印度尼西亚
+Advantys ASI ASI67FMP43EY 扩展A/B寻址方式，平板型，60mm，8通道，4输入，3输出，双引脚Y 3,143 订购产品 IDSAF SF 印度尼西亚
+Advantys ASI ASI67FMP44D 标准寻址方式，平板型，60mm，8通道，4输入，4输出 2,944 订购产品 IDSAF SF 印度尼西亚
+Advantys ASI ASI67FMP44DY 标准寻址方式，平板型，60mm，8通道，4输入，4输出，双引脚Y 2,944 订购产品 IDSAF SF 印度尼西亚
+Advantys ASI ASIABLB3002 100～240V，直流30V，70W，2.4A，不带接地信号检测 4,984 订购产品 IDSAF SF 中国
+Advantys ASI ASIABLD3002 100～240V，直流30V，70W，2.4A，带接地信号检测 7,153 订购产品 IDSAF SF 中国
+Advantys ASI ASIABLD3004 100～240V，直流30V，145W，4.8A，带接地信号检测 10,144 订购产品 IDSAF SF 中国
+Advantys ASI ASIABLM3024 100～240V，直流30+24V，2×72W，2.4+3A，不带接地信号检测 8,323 订购产品 IDSAF SF 中国
+Advantys ASI ASIB4VM12 ASI底板,4通道 733 订购产品 IDSAF SF 德国
+Advantys ASI ASIDCPACC1 密封塞，适用于M8连接器，100/包 1,604 订购产品 IDSAF SF 德国
+Advantys ASI ASIDCPACC2 密封塞，适用于M8连接器 38 订购产品 IDSAF SF 德国
+Advantys ASI ASIDCPM12D03 2跟扁平电缆分支连接器，1根用于ASI，1根用于单独电源；2m，带5-针触电直头M12插座连接器的跨线 527 订购产品 IDSAF SF 德国
+Advantys ASI ASIME2I2O A2SI模块，2输入，2输出 1,707 订购产品 IDSAF SF 德国
+Advantys ASI ASIME2I2OE A2SI模块，扩展A/B寻址I/O，2输入，2输出 1,731 订购产品 IDSAF SF 德国
+Advantys ASI ASIME4IE A2SI模块，扩展A/B寻址I/O，4输入 1,612 订购产品 IDSAF SF 德国
+Advantys ASI ASIMMO4I2O A2SI模块，M8接口，4输入，2输出 2,813 订购产品 IDSAF SF 德国
+Advantys ASI ASIMMO4I5O A2SI模块，M8接口，4输入，5输出 2,895 订购产品 IDSAF SF 德国
+Advantys ASI ASITERACC1F 电缆适配器；适用于终端XZ MC11和ASITERV2，带M12插座连接器产品 605 订购产品 IDSAF SF 法国
+Advantys ASI ASITERACC1M 电缆适配器；适用于终端XZ MC11和ASITERV2，带M12插头连接器产品 605 订购产品 IDSAF SF 法国
+Advantys ASI ASITERACC2 电缆适配器；适用于终端XZ MC11和ASITERV2，带Jack插座插头产品 599 订购产品 IDSAF SF 法国
+Advantys ASI ASITERACC3 EMS底板适配器 455 订购产品 IDSAF SF 法国
+Advantys ASI ASITERIR1 电缆适配器；适用于终端XZ MC11和ASI TERV2 2,356 订购产品 IDSAF SF 法国
+Advantys ASI ASITERV2 调节终端；通过LR6电池工作；允许ASIV1和V2.1；从站的编制和诊断 5,771 订购产品 IDSAF SF 德国
+ASI TERACC2；XZ MG12；XZ MG13；ASI TERIR1；+保护盖； 12,403 订购产品 IDSAF SF 法国
+Advantys FTX OTB FTXCM08B 密封塞，用于M8连接器，10个/包 183 订购产品 IDSAF SF 德国
+Advantys FTX OTB FTXCM12B 密封塞，用于M12连接器，10个/包 183 订购产品 IDSAF SF 德国
+Advantys FTX OTB FTXCN12F5 CANOpen/DeviceNet连接器，M12插座，5-针 183 订购产品 IDSAF SF 德国
+Advantys FTX OTB FTXCN12M5 CANOpen/DeviceNet连接器，M12插头，5-针 183 订购产品 IDSAF SF 德国
+Advantys FTX OTB FTXCN3203 CANOpen/DeviceNet总线连接电缆，每端各装有弯曲的M12，6-针连接器，0.3m 746 订购产品 IDSAF SF 德国
+Advantys FTX OTB FTXCN3206 CANOpen/DeviceNet总线连接电缆，每端各装有弯曲的M12，6-针连接器，0.6m 621 订购产品 IDSAF SF 德国
+Advantys FTX OTB FTXCN3210 CANOpen/DeviceNet总线连接电缆，每端各装有弯曲的M12，6-针连接器，1m 701 订购产品 IDSAF SF 德国
+Advantys FTX OTB FTXCN3220 CANOpen/DeviceNet总线连接电缆，每端各装有弯曲的M12，6-针连接器，2m 902 订购产品 IDSAF SF 德国
+Advantys FTX OTB FTXCN3230 CANOpen/DeviceNet总线连接电缆，每端各装有弯曲的M12，6-针连接器，3m 1,106 订购产品 IDSAF SF 德国
+Advantys FTX OTB FTXCN3250 CANOpen/DeviceNet总线连接电缆，每端各装有弯曲的M12，6-针连接器，5m 1,508 订购产品 IDSAF SF 德国
+Advantys FTX OTB FTXCNCT1 T型连接器，用于电源电缆，安装有2个7/8 5-针连接器 2,293 订购产品 IDSAF SF 德国
+Advantys FTX OTB FTXCNTL12 连线端连接器，一端装有M12连接器 773 订购产品 IDSAF SF 德国
+Advantys FTX OTB FTXCPE10 INTERBUS电缆压盖，M16×1.5 937 订购产品 IDSAF SF 德国
+Advantys FTX OTB FTXCY1208 Y型连接器，用于2×M8连接器与分线盒上M12连接器连接 1,101 订购产品 IDSAF SF 德国
+Advantys FTX OTB FTXCY1212 Y型连接器，用于2×M12连接器与分线盒上M12连接器连接 1,432 订购产品 IDSAF SF 德国
+Advantys FTX OTB FTXDG12 诊断适配器，安装有2个M12连接器 550 订购产品 IDSAF SF 德国
+Advantys FTX OTB FTXDP1203 Profibus-DP总线连接电缆，两端各装有直的M12 ，5-针连接器，0.3m 642 订购产品 IDSAF SF 德国
+Advantys FTX OTB FTXDP1206 Profibus-DP总线连接电缆，两端各装有直的M12 ，5-针连接器，0.6m 1,026 订购产品 IDSAF SF 德国
+Advantys FTX OTB FTXDP1210 Profibus-DP总线连接电缆，两端各装有直的M12 ，5-针连接器，1m 1,437 订购产品 IDSAF SF 德国
+Advantys FTX OTB FTXDP1220 Profibus-DP总线连接电缆，两端各装有直的M12 ，5-针连接器，2m 1,911 订购产品 IDSAF SF 德国
+Advantys FTX OTB FTXDP1230 Profibus-DP总线连接电缆，两端各装有直的M12 ，5-针连接器，3m 1,284 订购产品 IDSAF SF 德国
+Advantys FTX OTB FTXDP1250 Profibus-DP总线连接电缆，两端各装有直的M12 ，5-针连接器，5m 1,432 订购产品 IDSAF SF 德国
+Advantys FTX OTB FTXDP12F5 Profibus-DP总线连接器，M12插座，5-针编码B 1,683 订购产品 IDSAF SF 德国
+Advantys FTX OTB FTXDP12M5 Profibus-DP总线连接器，M12插头，6-针编码B 2,599 订购产品 IDSAF SF 德国
+Advantys FTX OTB FTXDP2115 Profibus-DP直流24V总线模块电源连接器，一端安装7/8 5-针连接器，另一端无连接器，1.5m 1,026 订购产品 IDSAF SF 德国
+Advantys FTX OTB FTXDP2130 Profibus-DP直流24V总线模块电源连接器，一端安装7/8 5-针连接器，另一端无连接器，3m 1,437 订购产品 IDSAF SF 德国
+Advantys FTX OTB FTXDP2150 Profibus-DP直流24V总线模块电源连接器，一端安装7/8 5-针连接器，另一端无连接器，5m 1,911 订购产品 IDSAF SF 德国
+Advantys FTX OTB FTXDP2206 Profibus-DP直流24V总线模块电源连接器，两端均安装7/8 5-针连接器，0.6m 1,284 订购产品 IDSAF SF 德国
+Advantys FTX OTB FTXDP2210 Profibus-DP直流24V总线模块电源连接器，两端均安装7/8 5-针连接器，1m 1,407 订购产品 IDSAF SF 德国
+Advantys FTX OTB FTXDP2220 Profibus-DP直流24V总线模块电源连接器，两端均安装7/8 5-针连接器，2m 1,683 订购产品 IDSAF SF 德国
+Advantys FTX OTB FTXDP2250 Profibus-DP直流24V总线模块电源连接器，两端均安装7/8 5-针连接器，5m 2,599 订购产品 IDSAF SF 德国
+Advantys FTX OTB FTXDP3203 Profibus-DP总线连接电缆，两端各装有弯曲的M12，5-针连接器，0.3m 746 订购产品 IDSAF SF 德国
+Advantys FTX OTB FTXDP3206 Profibus-DP总线连接电缆，两端各装有弯曲的M12，5-针连接器，0.6m 3,425 订购产品 IDSAF SF 德国
+Advantys FTX OTB FTXDP3210 Profibus-DP总线连接电缆，两端各装有弯曲的M12，5-针连接器，1m 3,639 订购产品 IDSAF SF 德国
+Advantys FTX OTB FTXDP3220 Profibus-DP总线连接电缆，两端各装有弯曲的M12，5-针连接器，2m 4,159 订购产品 IDSAF SF 德国
+Advantys FTX OTB FTXDP3230 Profibus-DP总线连接电缆，两端各装有弯曲的M12，5-针连接器，3m 5,720 订购产品 IDSAF SF 德国
+Advantys FTX OTB FTXDP3250 Profibus-DP总线连接电缆，两端各装有弯曲的M12，5-针连接器，5m 1,508 订购产品 IDSAF SF 德国
+Advantys FTX OTB FTXIB1206 INTERBUS带有连接器电缆，用于总线和电源，安装有2套连接器，0.6m 3,425 订购产品 IDSAF SF 德国
+Advantys FTX OTB FTXIB1210 INTERBUS带有连接器电缆，用于总线和电源，安装有2套连接器，1m 3,639 订购产品 IDSAF SF 德国
+Advantys FTX OTB FTXIB1220 INTERBUS带有连接器电缆，用于总线和电源，安装有2套连接器，2m 4,159 订购产品 IDSAF SF 德国
+Advantys FTX OTB FTXIB1250 INTERBUS带有连接器电缆，用于总线和电源，安装有2套连接器，5m 5,720 订购产品 IDSAF SF 德国
+Advantys FTX OTB OTB1C0DM9LP CANOpen接口模块，20I/O 5,684 中央库存 IDSAF SF 法国
+Advantys FTX OTB OTB1E0DM9LP 以太网接口模块，20I/O 7,054 订购产品 IDSAF SF 法国
+Advantys FTX OTB OTB1S0DM9LP Modbus接口模块，20I/O 3,897 订购产品 IDSAF SF 法国
+Advantys FTX OTB OTB9ZZ61JP 公共模块 885 订购产品 IDSAF SF 法国
+Advantys Telefast ABC6HE20F 20针HE10连接器插座 95 订购产品 IDSAF SF 法国
+Advantys Telefast ABE7ACC02 分线器接线基座 580 订购产品 IDSAF SF 法国
+Advantys Telefast ABE7ACC10 16通道 冗余输出接线基座 1,122 订购产品 IDSAF SF 法国
+Advantys Telefast ABE7ACC11 16通道 冗余输入接线基座 1,122 订购产品 IDSAF SF 法国
+Advantys Telefast ABE7ACC82 16通道 带CNOMO M23型连接器的馈通件 1,879 订购产品 IDSAF SF 法国
+Advantys Telefast ABE7B20MPN20 预接线基座，用于本体模块，12路输入，8路晶体管输出 1,175 订购产品 IDSAF SF 法国
+Advantys Telefast ABE7B20MPN22 预接线基座，用于本体模块，12路输入，8路晶体管输出带熔断/LED/隔断 1,646 库存产品 IDSAF SF 法国
+Advantys Telefast ABE7BV10 附加卡式螺钉端子 8通道 235 订购产品 IDSAF SF 法国
+Advantys Telefast ABE7BV20 附加卡式螺钉端子 16通道 282 订购产品 IDSAF SF 法国
+Advantys Telefast ABE7CPA01 连接计数器和模拟通道的连接器基座 878 订购产品 IDSAF SF 法国
+Advantys Telefast ABE7CPA02 带屏蔽层的导通模块，连接8通道无源螺钉接线端子 1,019 中央库存 IDSAF SF 法国
+Advantys Telefast ABE7CPA21 连接4路模拟量输出基座 724 订购产品 IDSAF SF 法国
+Advantys Telefast ABE7E16EPN20 预接线基座，用于扩展模块，16路输入 999 订购产品 IDSAF SF 法国
+Advantys Telefast ABE7E16SPN20 预接线基座，用于扩展模块，16路晶体管输出 1,751 订购产品 IDSAF SF 法国
+Advantys Telefast ABE7E16SPN22 预接线基座，用于扩展模块， 16路固态继电器输出 1,751 订购产品 IDSAF SF 法国
+Advantys Telefast ABE7FU012 快速熔断丝，0.125A 21 订购产品 IDSAF SF 法国
+Advantys Telefast ABE7FU050 快速熔断丝， 0.5A 21 订购产品 IDSAF SF 法国
+Advantys Telefast ABE7FU100 快速熔断丝， 1A 21 订购产品 IDSAF SF 法国
+Advantys Telefast ABE7FU200 快速熔断丝， 2A 24 订购产品 IDSAF SF 法国
+Advantys Telefast ABE7H08R10 8通道，每通道接1个接线端子， 单排，无LED指示灯，离散量信号无源连接线基座 538 订购产品 IDSAF SF 法国
+Advantys Telefast ABE7H08R11 8通道，每通道接1个接线端子，单排，有LED指示灯，离散量信号无源连接线基座 771 订购产品 IDSAF SF 法国
+Advantys Telefast ABE7H08R21 8通道，每通道接2个接线端子，双排，无LED指示灯，离散量信号无源连接线基座 869 订购产品 IDSAF SF 法国
+Advantys Telefast ABE7H12R10 12通道，每通道接1个接线端子，单排，无LED指示灯，离散量信号无源连接线基座 575 订购产品 IDSAF SF 法国
+Advantys Telefast ABE7H12R11 12通道，每通道接1个接线端子，单排，有LED指示灯，离散量信号无源连接线基座 735 订购产品 IDSAF SF 法国
+Advantys Telefast ABE7H12R21 12通道，每通道接2个接线端子，双排，有LED指示灯，离散量信号无源连接线基座 1,119 订购产品 IDSAF SF 法国
+Advantys Telefast ABE7H12R50 12通道，每通道接1个接线端子，双排，有LED指示灯，离散量信号无源连接线基座 751 订购产品 IDSAF SF 法国
+Advantys Telefast ABE7H16C10 微型接线基座， 16通道，每通道接1个接线端子，单排 568 订购产品 IDSAF SF 法国
+Advantys Telefast ABE7H16C11 微型接线基座， 16通道，每通道接1个接线端子，单排，有LED指示灯 562 订购产品 IDSAF SF 法国
+Advantys Telefast ABE7H16C21 微型接线基座，16通道，每通道接2个接线端子，单排，有LED指示灯 1,154 订购产品 IDSAF SF 法国
+Advantys Telefast ABE7H16C31 微型接线基座，16通道，每通道接3个接线端子，单排，有LED指示灯 1,337 订购产品 IDSAF SF 法国
+Advantys Telefast ABE7H16F43 16通道输出，每通道接2接线端子，单排，有LED指示灯 2,289 订购产品 IDSAF SF 法国
+Advantys Telefast ABE7H16R10 16通道，每通道接1个接线端子，单排 498 订购产品 IDSAF SF 法国
+Advantys Telefast ABE7H16R11 16通道，每通道接1个接线端子，单排，带LED指示灯 678 订购产品 IDSAF SF 法国
+Advantys Telefast ABE7H16R20 16通道，每通道接2个接线端子，双排 678 订购产品 IDSAF SF 法国
+Advantys Telefast ABE7H16R21 16通道，每通道接2个接线端子，双排，带LED指示灯 902 订购产品 IDSAF SF 法国
+Advantys Telefast ABE7H16R23 16通道输入，每通道接2接线端子，双排，有LED指示灯 1,530 订购产品 IDSAF SF 法国
+Advantys Telefast ABE7H16R30 16通道，每通道接3个接线端子，3排 1,322 订购产品 IDSAF SF 法国
+Advantys Telefast ABE7H16R31 16通道，每通道接3个接线端子，3排，带LED指示灯 1,176 订购产品 IDSAF SF 法国
+Advantys Telefast ABE7H16R50 16通道，每通道接1个接线端子，单排，带LED指示灯，带通道隔离 578 订购产品 IDSAF SF 法国
+Advantys Telefast ABE7H16S21 16通道，每通道接2个接线端子，双排，带LED指示灯，通道隔离 1,307 订购产品 IDSAF SF 法国
+Advantys Telefast ABE7H16S43 16通道输入，每通道接2接线端子，单排，有LED指示灯，带通道隔离 2,050 订购产品 IDSAF SF 法国
+Advantys Telefast ABE7H20E000 16通道，低成本无源接线基座 449 订购产品 IDSAF SF 法国
+Advantys Telefast ABE7H20E100 16通道，低成本无源接线基座，PLC连接电缆长度1m 681 订购产品 IDSAF SF 法国
+Advantys Telefast ABE7H20E200 16通道，低成本无源接线基座，PLC连接电缆长度2m 477 订购产品 IDSAF SF 法国
+Advantys Telefast ABE7P08T330 8通道，插入式固态继电器接线基座 1,639 订购产品 IDSAF SF 法国
+Advantys Telefast ABE7P16T111 16通道，插入式固态继电器接线基座，继电器宽度5mm 1,236 订购产品 IDSAF SF 法国
+Advantys Telefast ABE7P16T318 16通道，插入式固态继电器接线基座，继电器宽度12mm 3,422 订购产品 IDSAF SF 法国
+Advantys Telefast ABE7P16T330 16通道，插入式固态继电器接线基座，继电器宽度12mm，C/O,ABR-7S33 2,166 订购产品 IDSAF SF 法国
+Advantys Telefast ABE7P16T334 16通道，插入式固态继电器接线基座，继电器宽度12mm 2,567 订购产品 IDSAF SF 法国
+Advantys Telefast ABE7R08S210 8通道焊接式机电式和插入式接线基座，继电器宽10mm，N/O，独立电压 1,605 订购产品 IDSAF SF 法国
+Advantys Telefast ABE7R16S111E 16通道，插入式固态继电器接线基座，继电器宽度12mm 2,627 订购产品 IDSAF SF 法国
+Advantys Telefast ABE7R16S210 16通道焊接式机电式和插入式接线基座，继电器宽10mm，N/O，独立电压 1,917 中央库存 IDSAF SF 法国
+Advantys Telefast ABE7R16S212 16通道焊接式机电式和插入式接线基座，继电器宽10mm，N/O 2,662 订购产品 IDSAF SF 法国
+Advantys Telefast ABE7R16T330 16通道，插入式机电/固态继电器接线基座，继电器宽度12mm，独立电压，C/O 4,338 订购产品 IDSAF SF 法国
+Advantys Telefast ABE7R16T332 16通道，插入式机电/固态继电器接线基座，继电器宽度12mm，两极公用，C/O 5,953 订购产品 IDSAF SF 法国
+Advantys Telefast ABE7S08S2B1 8通道焊接型固态继电器输出基座，2A 2,659 订购产品 IDSAF SF 法国
+Advantys Telefast ABE7S16E2B1 16通道焊接型固态继电器输入基座，直流24V 3,419 订购产品 IDSAF SF 法国
+Advantys Telefast ABE7S16E2B1E 16通道焊接型固态继电器输入基座，直流24V，弹簧型 3,768 订购产品 IDSAF SF 法国
+Advantys Telefast ABE7S16E2E0 16通道焊接型固态继电器输入基座，交流48V 3,180 订购产品 IDSAF SF 法国
+Advantys Telefast ABE7S16E2F0 16通道焊接型固态继电器输入基座，交流110V 3,180 订购产品 IDSAF SF 法国
+Advantys Telefast ABE7S16E2M0 16通道焊接型固态继电器输入基座，交流230V 3,815 订购产品 IDSAF SF 法国
+Advantys Telefast ABE7S16S2B0 16通道焊接型固态继电器输出基座，0.5A，有检测信号 3,692 订购产品 IDSAF SF 法国
+Advantys Telefast ABE7S16S2B0E 16通道焊接型固态继电器输出基座， 0.5A，弹簧型，有检测信号 4,394 订购产品 IDSAF SF 法国
+Advantys Telefast ABE9C1240M 4通道分线盒，连接方式M12 3,082 订购产品 IDSAF SF 德国
+Advantys Telefast ABE9C1241L10 IP67，4通道分线盒，连接方式 M12，长度10m，有LEC指示灯 3,194 订购产品 IDSAF SF 德国
+Advantys Telefast ABE9C1280M 8通道分线盒，连接方式M12 4,330 订购产品 IDSAF SF 德国
+Advantys Telefast ABE9C1281C23 IP67，8通道分线盒，连接方式M12/23，长度5m，有LEC指示灯 2,718 订购产品 IDSAF SF 法国
+Advantys Telefast ABE9C1281L05 IP67，8通道分线盒，连接方式 M12，长度5m，有LEC指示灯 3,412 订购产品 IDSAF SF 德国
+Advantys Telefast ABE9C1281L10 IP67，8通道分线盒，连接方式 M12，长度10m，有LEC指示灯 4,330 订购产品 IDSAF SF 德国
+Advantys Telefast ABE9XLA10 标签，数量12个 229 订购产品 IDSAF SF 德国
+Advantys Telefast ABFC20R200 扁平电缆 20芯 20M 1,833 订购产品 IDSAF SF 法国
+Advantys Telefast ABFH20H008 20路HE10连接电缆 0.08M 197 订购产品 IDSAF SF 法国
+Advantys Telefast ABFH20H200 20路HE10连接电缆 2M 478 订购产品 IDSAF SF 泰国
+Advantys Telefast ABFH20H500 20路HE10连接电缆 5M 657 订购产品 IDSAF SF 中国
+Advantys Telefast ABFH32H200 SIEMENS S7连接电缆 945 订购产品 IDSAF SF 法国
+Advantys Telefast ABFM16S201 QUANTUM连接电缆， 2M 3,928 订购产品 IDSAF SF 法国
+Advantys Telefast ABFT20E050 预接线电缆，用于连接扩展模块，0.5米 115 订购产品 IDSAF SF 法国
+Advantys Telefast ABFT20E100 预接线电缆，用于连接扩展模块，1米 154 订购产品 IDSAF SF 法国
+Advantys Telefast ABFT20E200 预接线电缆，用于连接扩展模块，2米 208 订购产品 IDSAF SF 法国
+Advantys Telefast ABFT26B050 预接线电缆，用于连接本体模块，0.5米 115 订购产品 IDSAF SF 法国
+Advantys Telefast ABFT26B100 预接线电缆，用于连接本体模块，1米 200 订购产品 IDSAF SF 法国
+Advantys Telefast ABFT26B200 预接线电缆，用于连接本体模块，2米 271 订购产品 IDSAF SF 法国
+Advantys Telefast ABFY25S200 连接TSXBLY，2M 2,527 订购产品 IDSAF SF 法国
+Safety products ASISA01 AS接口线路分析器 55,462 订购产品 IDSAF CX 法国
+Safety products ASISAD1 专用适配器 703 订购产品 IDSAF CX 法国
+Safety products ASISAFEMON1 ASI安全监控器 2S 24V 12,280 订购产品 IDSAF CX 法国
+Safety products ASISAFEMON2 ASI安全监控器 2X2S 24V 14,123 订购产品 IDSAF CX 法国
+Safety products ASISCM AS接口电缆 224 订购产品 IDSAF CX 法国
+Safety products ASISCPC 电缆，用于监控器参数设定，RS232,2米 426 订购产品 IDSAF CX 法国
+Safety products ASISSLC1 1*M12进线 1,445 订购产品 IDSAF CX 法国
+Safety products ASISSLC2 2*M12进线 1,581 订购产品 IDSAF CX 法国
+Safety products ASISWIN2 AS接口设置软件 549 订购产品 IDSAF CX 法国
+Safety products XPSAC3421 安全模块，用来监控急停和限位开关，螺钉端子，集成，3NO+1固态，115V交流 3,493 订购产品 IDSAF CX 印度尼西亚
+Safety products XPSAC3721 安全模块，用来监控急停和限位开关，螺钉端子，集成，3NO+1固态，230V交流 3,493 库存产品 IDSAF CX 印度尼西亚
+Safety products XPSAC5121 安全模块，用来监控急停和限位开关，螺钉端子，集成，3NO+1固态，交直流24V 2,878 库存产品 IDSAF CX 印度尼西亚
+Safety products XPSAC5121P 安全模块，用来监控急停和限位开关，螺钉端子，可拆卸，3NO+1固态，交直流24V 3,509 订购产品 IDSAF CX 印度尼西亚
+Safety products XPSAF5130 安全模块，用于急停和限位开关监控的安全模块，3NO，集成，交直流24V 3,348 库存产品 IDSAF CX 印度尼西亚
+Safety products XPSAF5130P 安全模块，用于急停和限位开关监控的安全模块，3NO，可拆卸，交直流24V 3,559 订购产品 IDSAF CX 印度尼西亚
+Safety products XPSAF5130S 安全模块，用于急停和限位开关监控的安全模块，3NO 2,133 订购产品 IDSAF CX 印度尼西亚
+Safety products XPSAFL5130 用于急停、开关和安全光幕监控的安全模块，3NO，集成，交直流24V 3,514 订购产品 IDSAF CX 印度尼西亚
+Safety products XPSAK311144 用于急停、开关、安全地毯和边沿开关或者安全光幕监控的安全模块，集成，3NO+1NC+3固态，交直流24V 4,412 订购产品 IDSAF CX 印度尼西亚
+Safety products XPSAK311144P 用于急停、开关、安全地毯和边沿开关或者安全光幕监控的安全模块，可拆卸，3NO+1NC+3固态，交直流24V 4,876 订购产品 IDSAF CX 印度尼西亚
+Safety products XPSAK351144 用于急停、开关、安全地毯和边沿开关或者安全光幕监控的安全模块，集成，3NO+1NC+3固态，交流120V直流24V 4,412 订购产品 IDSAF CX 印度尼西亚
+Safety products XPSAK351144P 用于急停、开关、安全地毯和边沿开关或者安全光幕监控的安全模块，可拆卸，3NO+1NC+3固态，交流120V直流24V 4,876 订购产品 IDSAF CX 印度尼西亚
+Safety products XPSAK361144 用于急停、开关、安全地毯和边沿开关或者安全光幕监控的安全模块，集成，3NO+1NC+3固态，交流110V直流24V 4,412 订购产品 IDSAF CX 印度尼西亚
+Safety products XPSAK361144P 用于急停、开关、安全地毯和边沿开关或者安全光幕监控的安全模块，可拆卸，3NO+1NC+3固态，交流110V直流24V 4,876 订购产品 IDSAF CX 印度尼西亚
+Safety products XPSAK371144 用于急停、开关、安全地毯和边沿开关或者安全光幕监控的安全模块，集成，3NO+1NC+3固态，交流230V直流24V 4,412 库存产品 IDSAF CX 印度尼西亚
+Safety products XPSAK371144P 用于急停、开关、安全地毯和边沿开关或者安全光幕监控的安全模块，可拆卸，3NO+1NC+3固态，交流230V直流24V 4,876 订购产品 IDSAF CX 印度尼西亚
+Safety products XPSAR311144 用于急停、开关或者安全光幕的安全模块监控，集成，7NO+2NC+4固态，交直流24V 7,682 订购产品 IDSAF CX 印度尼西亚
+Safety products XPSAR311144P 用于急停、开关或者安全光幕的安全模块监控，可拆卸，7NO+2NC+4固态，交直流24V 8,143 订购产品 IDSAF CX 印度尼西亚
+Safety products XPSAR351144 用于急停、开关或者安全光幕的安全模块监控，集成，7NO+2NC+4固态，交流115V直流24V 8,241 订购产品 IDSAF CX 印度尼西亚
+Safety products XPSAR351144P 用于急停、开关或者安全光幕的安全模块监控，可拆卸+C685，7NO+2NC+4固态，交流115V直流24V 8,757 订购产品 IDSAF CX 印度尼西亚
+Safety products XPSAR371144 用于急停、开关或者安全光幕的安全模块监控，集成，7NO+2NC+4固态，交流230V直流24V 8,241 订购产品 IDSAF CX 印度尼西亚
+Safety products XPSATE3410 用于急停和限位开关监控的延时安全模块，5NO(3延迟)，4固态，螺钉端子，集成，交流115V 6,965 订购产品 IDSAF CX 印度尼西亚
+Safety products XPSATE3410P 用于急停和限位开关监控的延时安全模块，5NO(3延迟)，4固态，螺钉端子，可拆卸，交流115V 7,313 订购产品 IDSAF CX 印度尼西亚
+Safety products XPSATE3710 用于急停和限位开关监控的延时安全模块，5NO(3延迟)，4固态，螺钉端子，集成，交流230V 6,965 订购产品 IDSAF CX 印度尼西亚
+Safety products XPSATE3710P 用于急停和限位开关监控的延时安全模块，5NO(3延迟)，4固态，螺钉端子，可拆卸，交流230V 7,313 订购产品 IDSAF CX 印度尼西亚
+Safety products XPSATE5110 用于急停和限位开关监控的延时安全模块，5NO(3延迟)，4固态，螺钉端子，集成，交直流24V 6,965 订购产品 IDSAF CX 印度尼西亚
+Safety products XPSATE5110P 用于急停和限位开关监控的延时安全模块，5NO(3延迟)，4固态，螺钉端子，可拆卸，交直流24V 7,313 订购产品 IDSAF CX 印度尼西亚
+Safety products XPSAV11113 用于急停和限位开关监控的延时安全模块，6NO(3延迟），3固态，螺钉端子，集成，交直流24V 6,578 库存产品 IDSAF CX 印度尼西亚
+Safety products XPSAV11113P 用于急停和限位开关监控的延时安全模块，6NO(3延迟），3固态，螺钉端子，可拆卸，交直流24V 6,965 订购产品 IDSAF CX 印度尼西亚
+Safety products XPSBAE5120P 监控双手控制台安全模块，交直流24V 2,415 订购产品 IDSAF CX 德国
+Safety products XPSBAE3920P 监控双手控制台安全模块，交流115~230V 2,575 订购产品 IDSAF CX 德国
+Safety products XPSBAE5120C 监控双手控制台安全模块，交直流24V，可拆卸螺钉端子 2,415 订购产品 IDSAF CX 德国
+Safety products XPSBAE3920C 监控双手控制台安全模块，交流115~230V，可拆卸螺钉端子 2,575 订购产品 IDSAF CX 德国
+Safety products XPSBCE3110C 监控双手控制台安全模块，交直流24V，可拆卸螺钉端子 6,909 订购产品 IDSAF CX 德国
+Safety products XPSBCE3110P 监控双手控制台安全模块，交直流24V 6,909 订购产品 IDSAF CX 德国
+Safety products XPSBCE3410C 监控双手控制台安全模块，交流115V，可拆卸螺钉端子 6,909 订购产品 IDSAF CX 德国
+Safety products XPSBCE3410P 监控双手控制台安全模块，交流115V， 6,909 订购产品 IDSAF CX 德国
+Safety products XPSBCE3710C 监控双手控制台安全模块，交流230V，可拆卸螺钉端子 6,909 订购产品 IDSAF CX 德国
+Safety products XPSBCE3710P 监控双手控制台安全模块，交流230V 6,909 订购产品 IDSAF CX 德国
+Safety products XPSABV11330C 带延迟30s的安全模块，直流24V，可拆卸螺钉端子 5,875 订购产品 IDSAF CX 德国
+Safety products XPSABV11330P 带延迟30s的安全模块，直流24V 5,875 订购产品 IDSAF CX 德国
+Safety products XPSABV1133C 带延迟3s的安全模块，直流24V，可拆卸螺钉端子 5,875 订购产品 IDSAF CX 德国
+Safety products XPSABV1133C 带延迟3s的安全模块，直流24V 5,875 订购产品 IDSAF CX 德国
+Safety products XPSAXE5120P 安全模块，用来监控急停和限位开关，螺钉端子，可拆卸，3NO+1继电器，交直流24V 3,856 订购产品 IDSAF CX 德国
+Safety products XPSBF1132 安全模块，用来监控双手控制器的安全模块，螺钉端子，IIIC标准，2NO+2固态，24V 4,014 订购产品 IDSAF CX 印度尼西亚
+Safety products XPSCM1144 安全模块用于安全光幕监控 7,772 订购产品 IDSAF CX 印度尼西亚
+Safety products XPSDA3442 电梯控制模块，2NO+2固态，115V交流 3,864 订购产品 IDSAF CX 印度尼西亚
+Safety products XPSDA3742 电梯控制模块，2NO+2固态，230V交流 4,597 订购产品 IDSAF CX 印度尼西亚
+Safety products XPSDA5142 电梯控制模块，2NO+2固态，24V交直流 4,597 订购产品 IDSAF CX 印度尼西亚
+Safety products XPSDMB1132 监控2个门磁开关安全模块，集成，2NO+2固态，24V直流 3,211 订购产品 IDSAF CX 印度尼西亚
+Safety products XPSDME1132 监控6个门磁开关安全模块，集成，2NO+2固态，24V直流 6,666 订购产品 IDSAF CX 印度尼西亚
+Safety products XPSECM3431 安全产品输出扩展模块 4,257 订购产品 IDSAF CX 印度尼西亚
+Safety products XPSECM3431S3 XPSECM3431 BRAND S3 3,755 订购产品 IDSAF CX 印度尼西亚
+Safety products XPSECM3731 安全产品输出扩展模块 4,257 订购产品 IDSAF CX 印度尼西亚
+Safety products XPSECM5131 安全产品输出扩展模块 3,869 订购产品 IDSAF CX 印度尼西亚
+Safety products XPSECM5131S3 XPSECM5131 BRAND S3 3,755 订购产品 IDSAF CX 印度尼西亚
+Safety products XPSECP3431 安全产品输出扩展模块 6,191 订购产品 IDSAF CX 印度尼西亚
+Safety products XPSECP3731 安全产品输出扩展模块 5,724 订购产品 IDSAF CX 印度尼西亚
+Safety products XPSECP5131 安全产品输出扩展模块 6,191 订购产品 IDSAF CX 印度尼西亚
+Safety products XPSFB3711 MONIT MOD LIM SWITCH 230V 6,440 订购产品 IDSAF CX 印度尼西亚
+Safety products XPSFB5311 MONIT MOD LIM SWITCH 48 V 6,440 订购产品 IDSAF CX 印度尼西亚
+Safety products XPSLCB1141 MICR CONTROL XUSLM 27,823 订购产品 IDSAF CX 印度尼西亚
+Safety products XPSMC16Z 安全控制器，16点安全输入，带1路MODBUS串口 17,736 订购产品 IDSAF CX 法国
+Safety products XPSMC16ZC 安全控制器，16点安全输入，带1路MODBUS串口和CanOpen总线口 21,450 订购产品 IDSAF CX 法国
+Safety products XPSMC16ZCPACK 安全控制器套装，本体16点安全输入，带1路MODBUS串口和Canopen总线口，软件，电缆和端子 30,341 订购产品 IDSAF CX 法国
+Safety products XPSMC16ZP 安全控制器，16点安全输入，带1路MODBUS串口和Profibus总线口 21,428 订购产品 IDSAF CX 法国
+Safety products XPSMC16ZPACK 安全控制器套装，16点安全输入，带1路MODBUS串口，软件，电缆和端子 18,979 订购产品 IDSAF CX 法国
+Safety products XPSMC16ZPPACK 安全控制器套装，16点安全输入，带1路MODBUS串口和Profibus总线口，软件，电缆和端子 31,722 订购产品 IDSAF CX 法国
+Safety products XPSMC32Z 安全控制器，32点安全输入，带1路MODBUS串口 18,470 订购产品 IDSAF CX 法国
+Safety products XPSMC32ZC 安全控制器, 16点安全输入,带modbus canopen通讯 20,900 订购产品 IDSAF CX 法国
+Safety products XPSMC32ZCPACK 安全控制器套装，32点安全输入，带1路MODBUS串口和Canopen总线口，软件，电缆和端子 30,429 订购产品 IDSAF CX 法国
+Safety products XPSMC32ZP 安全控制器，32点安全输入，带1路MODBUS串口和Profibus总线口 22,110 订购产品 IDSAF CX 法国
+Safety products XPSMC32ZPACK 安全控制器套装，32点安全输入，带1路MODBUS串口，软件，电缆和端子 25,609 订购产品 IDSAF CX 法国
+Safety products XPSMC32ZPPACK 安全控制器套装，32点安全输入，带1路MODBUS串口和Profibus总线口，软件，电缆和端子 33,045 订购产品 IDSAF CX 法国
+Safety products XPSMCCPC MINI DIN和RJ45转换器 860 订购产品 IDSAF CX 法国
+Safety products XPSMCSCY 高级自动化平台 TSX SCY 21601（2013年1月发布） 1,388 订购产品 IDSAF CX 法国
+Safety products XPSMCTC16 弹簧夹连接器，与XPS MC16Z, MC16ZC, MC16ZP配套使用 1,193 订购产品 IDSAF CX 法国
+Safety products XPSMCTC32 弹簧端子32针 1,489 订购产品 IDSAF CX 法国
+Safety products XPSMCTS16 端子 16针 螺丝 1,558 订购产品 IDSAF CX 法国
+Safety products XPSMCTS32 端子 32针 螺丝 1,913 订购产品 IDSAF CX 法国
+Safety products XPSMCWIN 安全控制器配置软件，V2.41版本 1,650 订购产品 IDSAF CX 法国
+Safety products XPSMP11123 安全控制器，两个独立功能，集成，6NO+3固态，直流24V 7,274 订购产品 IDSAF CX 印度尼西亚
+Safety products XPSMP11123P 安全控制器，两个独立功能，可拆卸，6NO+3固态，直流24V 8,512 订购产品 IDSAF CX 印度尼西亚
+Safety products XPSNS3440 SENSOR AMPLIFIER 115V AC 7,871 订购产品 IDSAF CX 印度尼西亚
+Safety products XPSNS3740 SENSOR AMPLIFIER 230V AC 7,871 订购产品 IDSAF CX 印度尼西亚
+Safety products XPSOT3444 ECC PRESS MODULE 120V AC 16,458 订购产品 IDSAF CX 印度尼西亚
+Safety products XPSOT3744 ECC PRESS MODULE 230V AC 17,799 订购产品 IDSAF CX 印度尼西亚
+Safety products XPSPVK1184 DISCORDANCE MOD 24V DC 14,472 订购产品 IDSAF CX 印度尼西亚
+Safety products XPSPVK3484 DISCORDANCE MOD 115V AC 10,733 订购产品 IDSAF CX 印度尼西亚
+Safety products XPSPVK3784 DISCORDANCE MOD 230V AC 10,733 订购产品 IDSAF CX 印度尼西亚
+Safety products XPSPVT1180 MONIT MOD 3 VALVES 24VDC 10,060 订购产品 IDSAF CX 印度尼西亚
+Safety products XPSTSA5142P 安全时间延时模块，2NC+2固态，交直流24V 4,257 订购产品 IDSAF CX 印度尼西亚
+Safety products XPSVC1132 使能开关监控安全模块，2NO+2固态，直流24V 3,994 订购产品 IDSAF CX 印度尼西亚
+Safety products XPSVN3442 零速检测安全模块，小于60Hz，115VAC 8,229 订购产品 IDSAF CX 印度尼西亚
+Safety products XPSVN3442HS 零速检测安全模块，大于60Hz，115VAC 8,229 订购产品 IDSAF CX 印度尼西亚
+Safety products XPSVN3742HS 零速检测安全模块，大于60Hz，230VAC 8,229 订购产品 IDSAF CX 印度尼西亚
+Safety products XPSVNE1142HSP 零速检测安全模块，大于60Hz，24V 7,291 订购产品 IDSAF CX 印度尼西亚
+Safety products XPSVNE1142LFP 零速检测安全模块，大于60Hz，24V 6,959 订购产品 IDSAF CX 印度尼西亚
+Safety products XPSVNE1142P 零速检测安全模块，小于60Hz，24V 6,628 订购产品 IDSAF CX 印度尼西亚
+Safety products XPSVNE3442HSP 零速检测安全模块，大于60Hz，115VAC 7,291 订购产品 IDSAF CX 印度尼西亚
+Safety products XPSVNE3442P 零速检测安全模块，小于60Hz，115VAC 6,628 订购产品 IDSAF CX 印度尼西亚
+Safety products XPSVNE3742HSP 零速检测安全模块，大于60Hz，230VAC 7,291 订购产品 IDSAF CX 印度尼西亚
+Safety products XPSVNE3742P 零速检测安全模块，小于60Hz，230VAC 6,628 订购产品 IDSAF CX 印度尼西亚
